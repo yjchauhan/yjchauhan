@@ -15,69 +15,65 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 ---
 
 ## 🏢 Current Role
-**Software Development Engineer**  
-**Revolution Labs Pvt. Ltd.**
+**Software Development Engineer** · **Revolution Labs Pvt. Ltd.**
 
 - Building scalable APIs and database-driven systems  
 - Working across backend and full-stack architectures  
 - Contributing to production-grade software solutions  
 
-**Tech I use:**  
-Python, FastAPI, REST APIs, MongoDB, PostgreSQL, HTML, CSS, Git, GitHub, Docker, Postman, PuTTY, Ngrok
+**Tech I use:** Python, FastAPI, REST APIs, MongoDB, PostgreSQL, HTML, CSS, Git, GitHub, Docker, Postman, PuTTY, Ngrok
 
 ---
 
 ## 🛠️ Tech Stack / Skills
 
-<table align="center">
-<tr>
-<td align="center" width="180"><b>Languages</b></td>
-<td align="center" width="180"><b>Frontend</b></td>
-<td align="center" width="180"><b>Backend</b></td>
-<td align="center" width="180"><b>Databases</b></td>
-<td align="center" width="180"><b>Data / ML</b></td>
-<td align="center" width="220"><b>Tools</b></td>
-</tr>
+<table width="100%">
+  <tr>
+    <td align="center" width="16%"><b>Languages</b></td>
+    <td align="center" width="16%"><b>Frontend</b></td>
+    <td align="center" width="16%"><b>Backend</b></td>
+    <td align="center" width="16%"><b>Databases</b></td>
+    <td align="center" width="16%"><b>Data / ML</b></td>
+    <td align="center" width="20%"><b>Tools</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="34" /><br/>Python<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="34" /><br/>JavaScript<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="34" /><br/>SQL
+    </td>
 
-<tr>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/><br/>Python<br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/><br/>JavaScript<br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/><br/>SQL
-</td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="34" /><br/>React<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="34" /><br/>HTML<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="34" /><br/>CSS
+    </td>
 
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/><br/>React<br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/><br/>HTML<br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/><br/>CSS
-</td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="34" /><br/>Node.js<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="34" /><br/>FastAPI<br/><br/>
+      <img src="https://img.shields.io/badge/REST%20APIs-0A66C2?style=for-the-badge" />
+    </td>
 
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/><br/>Node.js<br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="30"/><br/>FastAPI<br/><br/>
-<img src="https://img.shields.io/badge/REST-API-blue?style=flat-square" />
-</td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="34" /><br/>MongoDB<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="34" /><br/>PostgreSQL<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="34" /><br/>Oracle
+    </td>
 
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30"/><br/>MongoDB<br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/><br/>PostgreSQL<br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="30"/><br/>Oracle
-</td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="34" /><br/>Pandas<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="34" /><br/>NumPy<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="34" /><br/>R
+    </td>
 
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30"/><br/>Pandas<br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30"/><br/>NumPy<br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="30"/><br/>R
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/><br/>Git<br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/><br/>GitHub<br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/><br/>Docker<br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30"/><br/>VS Code<br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30"/><br/>Postman
-</td>
-</tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="34" /><br/>Git<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="34" /><br/>GitHub<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="34" /><br/>Docker<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="34" /><br/>Postman
+    </td>
+  </tr>
 </table>
 
 ---
@@ -85,7 +81,10 @@ Python, FastAPI, REST APIs, MongoDB, PostgreSQL, HTML, CSS, Git, GitHub, Docker,
 ## 📈 GitHub Stats
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yjchauhan&show_icons=true&count_private=true)
+<img
+  src="https://github-readme-stats.vercel.app/api?username=yjchauhan&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=1800&v=1"
+  alt="GitHub Stats"
+/>
 
 </div>
 
@@ -94,7 +93,10 @@ Python, FastAPI, REST APIs, MongoDB, PostgreSQL, HTML, CSS, Git, GitHub, Docker,
 ## 🔥 GitHub Streak
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yjchauhan)
+<img
+  src="https://streak-stats.demolab.com/?user=yjchauhan&hide_border=true&theme=tokyonight&cache_seconds=1800&v=1"
+  alt="GitHub Streak"
+/>
 
 </div>
 
@@ -103,7 +105,10 @@ Python, FastAPI, REST APIs, MongoDB, PostgreSQL, HTML, CSS, Git, GitHub, Docker,
 ## 🧠 Top Languages
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yjchauhan&layout=compact)
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjchauhan&layout=compact&hide_border=true&theme=tokyonight&langs_count=10&cache_seconds=1800&v=1"
+  alt="Top Languages"
+/>
 
 </div>
 
@@ -112,7 +117,10 @@ Python, FastAPI, REST APIs, MongoDB, PostgreSQL, HTML, CSS, Git, GitHub, Docker,
 ## 📊 Contribution Activity
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yjchauhan&theme=github-compact)
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=yjchauhan&theme=github-compact&hide_border=true"
+  alt="Contribution Activity Graph"
+/>
 
 </div>
 
@@ -141,32 +149,33 @@ Python, FastAPI, REST APIs, MongoDB, PostgreSQL, HTML, CSS, Git, GitHub, Docker,
 
 ## 📬 Connect With Me
 
-<table align="center">
-<tr>
-<td align="center" width="180">
-<a href="mailto:ysingh.chauhan2002@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32"/><br/><b>Email</b>
-</a>
-</td>
-
-<td align="center" width="180">
-<a href="https://www.linkedin.com/in/yjchauhan" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/><br/><b>LinkedIn</b>
-</a>
-</td>
-
-<td align="center" width="180">
-<a href="https://twitter.com/yjchauhan6322" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="32"/><br/><b>Twitter / X</b>
-</a>
-</td>
-
-<td align="center" width="180">
-<a href="https://instagram.com/king_panda_6322" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="32"/><br/><b>Instagram</b>
-</a>
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <a href="mailto:ysingh.chauhan2002@gmail.com">
+        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" /><br/>
+        <b>Email</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.linkedin.com/in/yjchauhan" target="_blank">
+        <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" /><br/>
+        <b>LinkedIn</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://twitter.com/yjchauhan6322" target="_blank">
+        <img src="https://cdn.simpleicons.org/x/FFFFFF" width="40" /><br/>
+        <b>Twitter / X</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://instagram.com/king_panda_6322" target="_blank">
+        <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" /><br/>
+        <b>Instagram</b>
+      </a>
+    </td>
+  </tr>
 </table>
 
 <p align="center">
@@ -176,36 +185,54 @@ Python, FastAPI, REST APIs, MongoDB, PostgreSQL, HTML, CSS, Git, GitHub, Docker,
 ---
 
 ## 💬 Ask Me About
-Backend APIs, Databases, Full Stack Systems, Data, ML & AI
+Feel free to reach out if you want to talk about building **scalable backend APIs**, designing **database-driven systems**, creating **full-stack applications**, or applying **data, ML, and AI** to solve real-world problems.
 
 ---
 
 ## 🎉 Fun Facts
 
-<pre>
-🐼 Spirit Animal  : King Panda
-☕ Debugging Mode : Best After Midnight
-🧩 Superpower    : Turning Coffee into Code
-🎯 Life Motto    : "Build without boundaries, debug without fear"
-😄 Plot Twist    : I fix bugs that haven't been reported yet!
-</pre>
+<table width="100%">
+  <tr>
+    <td width="5%">🐼</td>
+    <td><b>Spirit Animal</b>:</td>
+    <td>King Panda</td>
+  </tr>
+  <tr>
+    <td>☕</td>
+    <td><b>Debugging Mode</b>:</td>
+    <td>Best After Midnight</td>
+  </tr>
+  <tr>
+    <td>🧩</td>
+    <td><b>Superpower</b>:</td>
+    <td>Turning Coffee into Code</td>
+  </tr>
+  <tr>
+    <td>🎯</td>
+    <td><b>Life Motto</b>:</td>
+    <td>"Build without boundaries, debug without fear"</td>
+  </tr>
+  <tr>
+    <td>😄</td>
+    <td><b>Plot Twist</b>:</td>
+    <td>I fix bugs that haven't been reported yet!</td>
+  </tr>
+</table>
 
 ---
 
 ## 👀 Profile Insights
 
 <table width="100%">
-<tr>
-<td width="33%" align="left">
-<img src="https://komarev.com/ghpvc/?username=yjchauhan&label=Profile%20Views&style=flat-square" />
-</td>
-
-<td width="33%" align="center">
-<img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=%24.public_repos&url=https://api.github.com/users/yjchauhan&style=flat-square" />
-</td>
-
-<td width="33%" align="right">
-<img src="https://img.shields.io/github/followers/yjchauhan?label=Followers&style=flat-square" />
-</td>
-</tr>
+  <tr>
+    <td width="33%" align="left">
+      <img src="https://komarev.com/ghpvc/?username=yjchauhan&label=Profile%20Views&style=for-the-badge" />
+    </td>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=%24.public_repos&url=https://api.github.com/users/yjchauhan&style=for-the-badge" />
+    </td>
+    <td width="33%" align="right">
+      <img src="https://img.shields.io/github/followers/yjchauhan?label=Followers&style=for-the-badge" />
+    </td>
+  </tr>
 </table>
