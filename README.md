@@ -136,7 +136,142 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 ---
 
 ## 🏅 Certifications & Achievements
-👉 https://www.credly.com/users/yjchauhan
+
+<div align="center">
+
+<sub>
+🔗 My Credly Profile:
+<a href="https://www.credly.com/users/yjchauhan" target="_blank">
+<b>Yashwantsingh J. Chauhan</b>
+</a>
+</sub>
+
+<br/><br/>
+
+<table width="100%">
+  <tr>
+    <th align="center">Badge</th>
+    <th align="left">Certification</th>
+    <th align="left">Issuer</th>
+    <th align="left">Description</th>
+    <th align="center">View</th>
+  </tr>
+
+  <!-- Enterprise Design Thinking Practitioner -->
+  <tr>
+    <td align="center">
+      <img src="my-badges/ibm-enterprise-design-thinking-practitioner.png" width="70" alt="Enterprise Design Thinking Practitioner"/>
+    </td>
+    <td>Enterprise Design Thinking Practitioner</td>
+    <td>IBM</td>
+    <td>
+      Demonstrates the ability to apply human-centered design thinking practices
+      to solve complex business problems through collaboration and rapid experimentation.
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/f9085005-215a-4af6-ab2a-c11e9e82cb35/public_url" target="_blank">🔗</a>
+    </td>
+  </tr>
+
+  <!-- Google Cybersecurity Professional Certificate V2 -->
+  <tr>
+    <td align="center">
+      <img src="my-badges/google-cybersecurity-professional-certificate-v2.png" width="70" alt="Google Cybersecurity Professional Certificate"/>
+    </td>
+    <td>Google Cybersecurity Professional Certificate (V2)</td>
+    <td>Google / Coursera</td>
+    <td>
+      Comprehensive training in cybersecurity fundamentals including threat analysis,
+      risk management, incident response, and security best practices.
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/91f9170c-cca1-44cf-89d6-7308a2a472ea/public_url" target="_blank">🔗</a>
+    </td>
+  </tr>
+
+  <!-- Introduction to Cybersecurity -->
+  <tr>
+    <td align="center">
+      <img src="my-badges/introduction-to-cybersecurity.png" width="70" alt="Introduction to Cybersecurity"/>
+    </td>
+    <td>Introduction to Cybersecurity</td>
+    <td>Cisco</td>
+    <td>
+      Validates foundational understanding of cybersecurity concepts,
+      cyber threats, vulnerabilities, and basic defensive strategies.
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/ba29c179-5039-41b9-8be8-492daff78e48/public_url" target="_blank">🔗</a>
+    </td>
+  </tr>
+
+  <!-- IT Academy: Cloud and Virtualization Concepts -->
+  <tr>
+    <td align="center">
+      <img src="my-badges/it-academy-cloud-and-virtualization-concepts.png" width="70" alt="Cloud and Virtualization Concepts"/>
+    </td>
+    <td>IT Academy: Cloud and Virtualization Concepts</td>
+    <td>Broadcom (VMware)</td>
+    <td>
+      Demonstrates knowledge of cloud computing models, virtualization technologies,
+      and their role in modern IT infrastructure.
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/6bcde16a-c1e9-4dd2-b9e8-29efbbb058b6/public_url" target="_blank">🔗</a>
+    </td>
+  </tr>
+
+  <!-- IT Academy: Network Virtualization Concepts -->
+  <tr>
+    <td align="center">
+      <img src="my-badges/it-academy-network-virtualization-concepts.png" width="70" alt="Network Virtualization Concepts"/>
+    </td>
+    <td>IT Academy: Network Virtualization Concepts</td>
+    <td>Broadcom (VMware)</td>
+    <td>
+      Validates understanding of virtual networking architectures,
+      software-defined networking, and network virtualization principles.
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/009099b2-f188-4cd2-9d53-a849b6e12099/public_url" target="_blank">🔗</a>
+    </td>
+  </tr>
+
+  <!-- IT Academy: Software-Defined Storage Concepts -->
+  <tr>
+    <td align="center">
+      <img src="my-badges/it-academy-software-defined-storage-concepts.png" width="70" alt="Software Defined Storage Concepts"/>
+    </td>
+    <td>IT Academy: Software-Defined Storage Concepts</td>
+    <td>Broadcom (VMware)</td>
+    <td>
+      Confirms knowledge of software-defined storage systems,
+      storage virtualization, and modern data management approaches.
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/bc43805c-bd16-4311-b3be-e89da6a5b50a/public_url" target="_blank">🔗</a>
+    </td>
+  </tr>
+
+  <!-- Working in a Digital World: Professional Skills -->
+  <tr>
+    <td align="center">
+      <img src="my-badges/ibm-working-in-a-digital-world-professional-skills.png" width="70" alt="Working in a Digital World"/>
+    </td>
+    <td>Working in a Digital World: Professional Skills</td>
+    <td>IBM SkillsBuild</td>
+    <td>
+      Highlights essential professional skills including communication,
+      collaboration, adaptability, and effective digital workplace behavior.
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/cd25bd54-7fae-4c5a-b718-4b4ca61c256a/public_url" target="_blank">🔗</a>
+    </td>
+  </tr>
+
+</table>
+
+</div>
 
 ---
 
