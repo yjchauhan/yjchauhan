@@ -164,14 +164,14 @@ I don’t just write code — I **engineer solutions** ☕🚀
 
 <table width="100%">
   <tr>
-    <td align="left">
-      <img src="https://komarev.com/ghpvc/?username=yjchauhan&label=Profile%20Views&color=0e75b6&style=flat" />
+    <td width="33%" align="left">
+      <img src="https://komarev.com/ghpvc/?username=yjchauhan&label=Profile%20Views&style=flat-square" />
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=%24.public_repos&url=https://api.github.com/users/yjchauhan&color=success&style=flat" />
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=%24.public_repos&url=https://api.github.com/users/yjchauhan&style=flat-square" />
     </td>
-    <td align="right">
-      <img src="https://img.shields.io/github/followers/yjchauhan?label=Followers&color=yellow&style=flat" />
+    <td width="33%" align="right">
+      <img src="https://img.shields.io/github/followers/yjchauhan?label=Followers&style=flat-square" />
     </td>
   </tr>
 </table>
