@@ -159,31 +159,32 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
         <img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" alt="Email"/><br/>
         <b>Email</b>
       </a>
-      <!-- If Gmail ever fails on your GitHub, use this fallback instead:
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="42" alt="Email"/>
-      -->
     </td>
+
     <td align="center" width="20%">
       <a href="https://www.linkedin.com/in/yjchauhan" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" alt="LinkedIn"/><br/>
         <b>LinkedIn</b>
       </a>
     </td>
+
     <td align="center" width="20%">
       <a href="https://twitter.com/yjchauhan6322" target="_blank">
         <img src="https://cdn.simpleicons.org/x/FFFFFF" width="42" alt="Twitter X"/><br/>
         <b>Twitter&nbsp;/&nbsp;X</b>
       </a>
     </td>
+
     <td align="center" width="20%">
       <a href="https://instagram.com/king_panda_6322" target="_blank">
         <img src="https://cdn.simpleicons.org/instagram/E4405F" width="42" alt="Instagram"/><br/>
         <b>Instagram</b>
       </a>
     </td>
+
     <td align="center" width="20%">
       <a href="tel:+919408915397">
-        <img src="https://cdn.simpleicons.org/phone/FFFFFF" width="42" alt="Phone"/><br/>
+        <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="42" alt="Call Me"/><br/>
         <b>Call&nbsp;Me</b>
       </a>
     </td>
