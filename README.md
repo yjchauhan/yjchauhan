@@ -184,10 +184,12 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
     </td>
     <!-- Phone -->
     <td align="center" width="20%">
-      <a href="tel:+919408915397">
-        <h2>📞</h2>
+      <a href="https://wa.me/919408915397" target="_blank">
+        <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4de.svg"
+          width="42"
+          alt="Call Me"
+          /><br/>
         <b>Call&nbsp;Me</b><br/>
-        <sub>+91&nbsp;94089&nbsp;15397</sub>
       </a>
     </td>
   </tr>
