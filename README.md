@@ -36,38 +36,32 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
     <td align="center" width="16%"><b>Data / ML</b></td>
     <td align="center" width="20%"><b>Tools</b></td>
   </tr>
-
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="34" /><br/>Python<br/><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="34" /><br/>JavaScript<br/><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="34" /><br/>SQL
     </td>
-
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="34" /><br/>React<br/><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="34" /><br/>HTML<br/><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="34" /><br/>CSS
     </td>
-
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="34" /><br/>Node.js<br/><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="34" /><br/>FastAPI<br/><br/>
       <img src="https://img.shields.io/badge/REST%20APIs-0A66C2?style=flat-square" />
     </td>
-
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="34" /><br/>MongoDB<br/><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="34" /><br/>PostgreSQL<br/><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="34" /><br/>Oracle
     </td>
-
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="34" /><br/>Pandas<br/><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="34" /><br/>NumPy<br/><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="34" /><br/>R
     </td>
-
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="34" /><br/>Git<br/><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="34" /><br/>GitHub<br/><br/>
@@ -107,74 +101,27 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 
 ---
 
-## 🌱 What I’m Currently Learning
-- Advanced AI/ML applications  
-- Deep Learning  
-- System Design  
-- Cloud (AWS)
-
----
-
-## 🏅 Certifications & Achievements
-👉 https://www.credly.com/users/yjchauhan
-
----
-
-## 🎯 Open to Opportunities
-- Software / Backend Engineer  
-- Full Stack Developer  
-- Data Scientist / Analyst  
-- ML / AI Engineer  
-
----
-
-## 📬 Connect With Me
-
-<table width="100%">
-  <tr>
-    <td align="center" width="25%">
-      <a href="mailto:ysingh.chauhan2002@gmail.com">
-        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="38" /><br/>
-        <b>Email</b>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://www.linkedin.com/in/yjchauhan">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="38" /><br/>
-        <b>LinkedIn</b>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://twitter.com/yjchauhan6322">
-        <img src="https://cdn.simpleicons.org/x/FFFFFF" width="38" /><br/>
-        <b>Twitter / X</b>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://instagram.com/king_panda_6322">
-        <img src="https://cdn.simpleicons.org/instagram/E4405F" width="38" /><br/>
-        <b>Instagram</b>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<p align="center">📞 <b>Phone:</b> +91 94089 15397</p>
-
----
-
 ## 💬 Ask Me About
-I enjoy conversations around **scalable backend APIs**, **database architecture**, **full-stack systems**, and applying **data, ML, and AI** to solve real-world problems.
+I enjoy discussing backend API design, database architecture, scalable full-stack systems, and how data, machine learning, and AI can be applied to solve real-world problems.
 
 ---
 
 ## 🎉 Fun Facts
 
-🐼 **Spirit Animal**     : King Panda  
-☕ **Debugging Mode**   : Best After Midnight  
-🧩 **Superpower**       : Turning Coffee into Code  
-🎯 **Life Motto**       : “Build without boundaries, debug without fear”  
-😄 **Plot Twist**       : I fix bugs that haven’t been reported yet!
+🐼 **Spirit Animal**  
+King Panda
+
+☕ **Debugging Mode**  
+Best After Midnight
+
+🧩 **Superpower**  
+Turning Coffee into Code
+
+🎯 **Life Motto**  
+“Build without boundaries, debug without fear”
+
+😄 **Plot Twist**  
+I fix bugs that haven’t been reported yet!
 
 ---
 
