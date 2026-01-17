@@ -79,42 +79,36 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yjchauhan&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=86400"
-    alt="GitHub Stats"
-  />
-  <br/>
-  <sub>If the card doesn’t load due to rate-limit, refresh after a minute.</sub>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yjchauhan&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&cache_seconds=86400)
+
 </div>
 
 ---
 
 ## 🔥 GitHub Streak
 <div align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=yjchauhan&hide_border=true&theme=tokyonight&cache_seconds=86400"
-    alt="GitHub Streak"
-  />
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=yjchauhan&hide_border=true&theme=tokyonight&cache_seconds=86400)
+
 </div>
 
 ---
 
 ## 🧠 Top Languages
 <div align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yjchauhan&layout=compact&hide_border=true&theme=tokyonight&langs_count=10&cache_seconds=86400"
-    alt="Top Languages"
-  />
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yjchauhan&layout=compact&hide_border=true&theme=tokyonight&langs_count=10&cache_seconds=86400)
+
 </div>
 
 ---
 
 ## 📊 Contribution Activity
 <div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=yjchauhan&theme=github-compact&hide_border=true"
-    alt="Contribution Activity Graph"
-  />
+
+![Contribution Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yjchauhan&theme=github-compact&hide_border=true)
+
 </div>
 
 ---
@@ -151,16 +145,10 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 
 <br/>
 
-<img
-  src="https://komarev.com/ghpvc/?username=yjchauhan&label=Profile%20Views&style=flat-square"
-/>
+<img src="https://komarev.com/ghpvc/?username=yjchauhan&label=Profile%20Views&style=flat-square" />
 &nbsp;&nbsp;&nbsp;
-<img
-  src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=%24.public_repos&url=https://api.github.com/users/yjchauhan&style=flat-square"
-/>
+<img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=%24.public_repos&url=https://api.github.com/users/yjchauhan&style=flat-square" />
 &nbsp;&nbsp;&nbsp;
-<img
-  src="https://img.shields.io/github/followers/yjchauhan?label=Followers&style=flat-square"
-/>
+<img src="https://img.shields.io/github/followers/yjchauhan?label=Followers&style=flat-square" />
 
 </div>
