@@ -152,44 +152,48 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 
 ## 📬 Connect With Me
 
-<table width="85%">
+<table width="92%">
   <tr>
     <!-- Email -->
-    <td align="center" width="20%">
+    <td align="center" width="16.66%">
       <a href="mailto:ysingh.chauhan2002@gmail.com">
-        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" alt="Email"/><br/>
+        <img src="assets/gmail.png" width="46" alt="Email"/><br/>
         <b>Email</b>
       </a>
     </td>
     <!-- LinkedIn -->
-    <td align="center" width="20%">
+    <td align="center" width="16.66%">
       <a href="https://www.linkedin.com/in/yjchauhan" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" alt="LinkedIn"/><br/>
+        <img src="assets/linkedin.png" width="46" alt="LinkedIn"/><br/>
         <b>LinkedIn</b>
       </a>
     </td>
     <!-- Twitter / X -->
-    <td align="center" width="20%">
+    <td align="center" width="16.66%">
       <a href="https://twitter.com/yjchauhan6322" target="_blank">
-        <img src="https://cdn.simpleicons.org/x/FFFFFF" width="42" alt="Twitter X"/><br/>
-        <b>Twitter&nbsp;/&nbsp;X</b>
+        <img src="assets/twitter.png" width="46" alt="Twitter / X"/><br/>
+        <b>X&nbsp;(Twitter)</b>
       </a>
     </td>
     <!-- Instagram -->
-    <td align="center" width="20%">
+    <td align="center" width="16.66%">
       <a href="https://instagram.com/king_panda_6322" target="_blank">
-        <img src="https://cdn.simpleicons.org/instagram/E4405F" width="42" alt="Instagram"/><br/>
+        <img src="assets/instagram.png" width="46" alt="Instagram"/><br/>
         <b>Instagram</b>
       </a>
     </td>
-    <!-- Phone -->
-    <td align="center" width="20%">
+    <!-- Phone (WhatsApp) -->
+    <td align="center" width="16.66%">
       <a href="https://wa.me/919408915397" target="_blank">
-        <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4de.svg"
-          width="42"
-          alt="Call Me"
-          /><br/>
-        <b>Call&nbsp;Me</b><br/>
+        <img src="assets/whatsapp.png" width="46" alt="WhatsApp"/><br/>
+        <b>WhatsApp</b>
+      </a>
+    </td>
+    <!-- YouTube -->
+    <td align="center" width="16.66%">
+      <a href="https://www.youtube.com/@2kingpanda2" target="_blank">
+        <img src="assets/youtube.png" width="46" alt="YouTube"/><br/>
+        <b>YouTube</b>
       </a>
     </td>
   </tr>
