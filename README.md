@@ -185,7 +185,7 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
     <!-- Phone -->
     <td align="center" width="20%">
       <a href="tel:+919408915397">
-        <span style="font-size:38px;">📞</span><br/>
+        <h2>📞</h2>
         <b>Call&nbsp;Me</b><br/>
         <sub>+91&nbsp;94089&nbsp;15397</sub>
       </a>
