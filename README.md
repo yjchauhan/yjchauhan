@@ -1,12 +1,16 @@
+<div align="center">
+
 # Hi, I’m Yashwantsingh J. Chauhan 👋
 
-**Software & Data Engineer** with experience across **full-stack development, data analytics, backend systems, APIs, databases, and AI/ML solutions**.  
-I enjoy building scalable software systems and data-driven solutions that solve real-world problems.
+### Software & Data Engineer  
+Building scalable **full-stack systems, APIs, databases, and AI/ML-driven solutions**
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
-I am a versatile Software & Data Engineer with a strong foundation in backend and full-stack development, combined with growing expertise in data analytics, machine learning, and AI. I focus on writing clean, maintainable code and designing systems that scale efficiently.
+I’m a Software & Data Engineer with hands-on experience in backend and full-stack development, combined with a strong interest in data analytics, machine learning, and AI. I enjoy solving complex problems, designing scalable systems, and continuously learning new technologies.
 
 ---
 
@@ -15,95 +19,136 @@ I am a versatile Software & Data Engineer with a strong foundation in backend an
 **Revolution Labs Pvt. Ltd.**
 
 - Building scalable APIs and database-driven systems  
-- Working across full-stack and backend architectures  
-- Collaborating on production-grade software solutions  
+- Working across backend and full-stack architectures  
+- Contributing to production-grade software solutions  
 
 **Tech I use:**  
-Python (Full Stack), HTML, CSS, PostgreSQL, MongoDB, GitHub, Git, FastAPI, REST APIs, Postman, Docker, PuTTY, Ngrok
+Python, FastAPI, REST APIs, MongoDB, PostgreSQL, HTML, CSS, Git, GitHub, Docker, Postman, PuTTY, Ngrok
 
 ---
 
 ## 🛠️ Tech Stack / Skills
 
+<table>
+<tr>
+<td width="33%">
+
 ### 💻 Languages
-- Python  
-- JavaScript  
-- SQL  
+- 🐍 Python  
+- 🟨 JavaScript  
+- 🗄️ SQL  
+
+</td>
+<td width="33%">
 
 ### 🎨 Frontend
-- React  
-- HTML  
-- CSS  
+- ⚛️ React  
+- 🌐 HTML  
+- 🎨 CSS  
+
+</td>
+<td width="33%">
 
 ### ⚙️ Backend
-- Node.js  
-- FastAPI  
-- REST APIs  
+- 🟢 Node.js  
+- ⚡ FastAPI  
+- 🔗 REST APIs  
+
+</td>
+</tr>
+
+<tr>
+<td>
 
 ### 🗄️ Databases
-- MongoDB  
-- MySQL  
-- PostgreSQL  
-- Oracle SQL  
+- 🍃 MongoDB  
+- 🐬 MySQL  
+- 🐘 PostgreSQL  
+- 🧱 Oracle SQL  
+
+</td>
+<td>
 
 ### 📊 Data Science / ML
-- Pandas  
-- NumPy  
-- R Language  
+- 🐼 Pandas  
+- 🔢 NumPy  
+- 📈 R Language  
+
+</td>
+<td>
 
 ### 🔧 Tools & Platforms
-- Git & GitHub  
-- Docker  
-- VS Code  
-- Postman  
-- PuTTY  
-- Ngrok  
-- Oracle SQL Developer Data Modeler  
+- 🧑‍💻 Git & GitHub  
+- 🐳 Docker  
+- 🧠 VS Code  
+- 📬 Postman  
+- 🔐 PuTTY  
+- 🌍 Ngrok  
 
----
-
-## 🚀 Featured Projects
-> Selected projects that demonstrate real-world problem solving and system design.  
-(Refer to pinned repositories on my GitHub profile.)
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yjchauhan&show_icons=true&hide_title=true)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yjchauhan&show_icons=true&theme=default&count_private=true)
+
+</div>
 
 ---
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=yjchauhan)
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=yjchauhan&theme=default)
+
+</div>
 
 ---
 
 ## 🧠 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yjchauhan&layout=compact)
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yjchauhan&layout=compact&langs_count=8)
+
+</div>
 
 ---
 
 ## 📊 Contribution Activity
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yjchauhan)
+<div align="center">
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yjchauhan&theme=github-light)
+
+</div>
 
 ---
 
 ## 🌱 What I’m Currently Learning
 - Advanced AI/ML applications  
-- Deep Learning concepts  
+- Deep Learning  
 - System Design  
 - Cloud technologies with AWS  
 
 ---
 
 ## 🏅 Certifications & Achievements
-- View my certifications on **Credly**:  
-  👉 https://www.credly.com/users/yjchauhan
+Verified certifications and badges earned across software, data, and cloud domains:
+
+- 🏆 Python & Backend Development certifications  
+- 📊 Data Analytics & Data Science badges  
+- 🤖 AI/ML learning credentials  
+
+👉 View all certifications on Credly:  
+https://www.credly.com/users/yjchauhan
 
 ---
 
 ## 🎯 Open to Opportunities
-I’m open to exploring exciting roles such as:
+I’m open to exploring roles such as:
 - Software Engineer / Backend Engineer  
 - Full Stack Developer  
 - Data Scientist / Data Analyst  
@@ -121,17 +166,23 @@ I’m open to exploring exciting roles such as:
 ---
 
 ## 💬 Ask Me About
-- Backend & API development  
-- Database design & aggregations  
-- Full-stack development  
+- Designing scalable backend & API systems  
+- Database schema design & performance tuning  
+- Full-stack development workflows  
 - Data analytics, ML, and AI fundamentals  
 
 ---
 
 ## 🎉 Fun Fact
-I enjoy bridging the gap between **software engineering and data intelligence**, turning ideas into scalable systems.
+I debug code faster when there’s a real-world problem behind it — **logic first, coffee second ☕**.
 
 ---
 
-## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=yjchauhan)
+<div align="center">
+
+## 👀 Profile Insights
+
+![Profile Views](https://komarev.com/ghpvc/?username=yjchauhan&style=flat-square)  
+📦 **Public Repositories:** ![Repo Count](https://img.shields.io/badge/dynamic/json?label=repos&query=%24.public_repos&url=https://api.github.com/users/yjchauhan)
+
+</div>
