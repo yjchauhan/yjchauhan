@@ -15,13 +15,15 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 ---
 
 ## 🏢 Current Role
-**Software Development Engineer** · **Revolution Labs Pvt. Ltd.**
+**Software Development Engineer**
+**Revolution Labs Pvt. Ltd.**
 
 - Building scalable APIs and database-driven systems  
 - Working across backend and full-stack architectures  
 - Contributing to production-grade software solutions  
 
-**Tech I use:** Python, FastAPI, REST APIs, MongoDB, PostgreSQL, HTML, CSS, Git, GitHub, Docker, Postman, PuTTY, Ngrok
+**Tech I use:**
+- Python, FastAPI, REST APIs, MongoDB, PostgreSQL, HTML, CSS, Git, GitHub, Docker, Postman, PuTTY, Ngrok
 
 ---
 
