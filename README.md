@@ -162,10 +162,18 @@ I don’t just write code — I **engineer solutions** ☕🚀
 
 ## 👀 Profile Insights
 
-![Profile Views](https://komarev.com/ghpvc/?username=yjchauhan&style=flat-square)
-
-![Public Repos](https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=%24.public_repos&url=https://api.github.com/users/yjchauhan&style=flat-square)
-
-![Followers](https://img.shields.io/github/followers/yjchauhan?label=Followers&style=flat-square)
+<table width="100%">
+  <tr>
+    <td align="left">
+      <img src="https://komarev.com/ghpvc/?username=yjchauhan&label=Profile%20Views&color=0e75b6&style=flat" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=%24.public_repos&url=https://api.github.com/users/yjchauhan&color=success&style=flat" />
+    </td>
+    <td align="right">
+      <img src="https://img.shields.io/github/followers/yjchauhan?label=Followers&color=yellow&style=flat" />
+    </td>
+  </tr>
+</table>
 
 </div>
