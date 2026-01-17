@@ -27,7 +27,7 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 
 ## 🛠️ Tech Stack / Skills
 
-<table width="100%">
+<table width="100%" style="table-layout:fixed;">
   <tr>
     <td align="center" width="16%"><b>Languages</b></td>
     <td align="center" width="16%"><b>Frontend</b></td>
@@ -37,36 +37,36 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
     <td align="center" width="20%"><b>Tools</b></td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="34" /><br/>Python<br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="34" /><br/>JavaScript<br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="34" /><br/>SQL
+    <td align="center" valign="top">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" /><br/>Python<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" /><br/>JavaScript<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" /><br/>SQL
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="34" /><br/>React<br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="34" /><br/>HTML<br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="34" /><br/>CSS
+    <td align="center" valign="top">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" /><br/>React<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" /><br/>HTML<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" /><br/>CSS
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="34" /><br/>Node.js<br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="34" /><br/>FastAPI<br/><br/>
-      <img src="https://img.shields.io/badge/REST%20APIs-0A66C2?style=flat-square" />
+    <td align="center" valign="top">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" /><br/>Node.js<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="36" /><br/>FastAPI<br/><br/>
+      <img src="https://img.shields.io/badge/REST%20APIs-0A66C2?style=flat-square" height="22" />
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="34" /><br/>MongoDB<br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="34" /><br/>PostgreSQL<br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="34" /><br/>Oracle
+    <td align="center" valign="top">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" /><br/>MongoDB<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" /><br/>PostgreSQL<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="36" /><br/>Oracle
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="34" /><br/>Pandas<br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="34" /><br/>NumPy<br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="34" /><br/>R
+    <td align="center" valign="top">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" /><br/>Pandas<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" /><br/>NumPy<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="36" /><br/>R
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="34" /><br/>Git<br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="34" /><br/>GitHub<br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="34" /><br/>Docker<br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="34" /><br/>Postman
+    <td align="center" valign="top">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" /><br/>Git<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" /><br/>GitHub<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" /><br/>Docker<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="36" /><br/>Postman
     </td>
   </tr>
 </table>
@@ -75,28 +75,42 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yjchauhan&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yjchauhan&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=86400"
+    alt="GitHub Stats"
+  />
+  <br/>
+  <sub>If the card doesn’t load due to rate-limit, refresh after a minute.</sub>
 </div>
 
 ---
 
 ## 🔥 GitHub Streak
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=yjchauhan&hide_border=true&theme=tokyonight" />
+  <img
+    src="https://streak-stats.demolab.com/?user=yjchauhan&hide_border=true&theme=tokyonight&cache_seconds=86400"
+    alt="GitHub Streak"
+  />
 </div>
 
 ---
 
 ## 🧠 Top Languages
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yjchauhan&layout=compact&hide_border=true&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yjchauhan&layout=compact&hide_border=true&theme=tokyonight&langs_count=10&cache_seconds=86400"
+    alt="Top Languages"
+  />
 </div>
 
 ---
 
 ## 📊 Contribution Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yjchauhan&theme=github-compact&hide_border=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=yjchauhan&theme=github-compact&hide_border=true"
+    alt="Contribution Activity Graph"
+  />
 </div>
 
 ---
@@ -108,31 +122,26 @@ I enjoy discussing backend API design, database architecture, scalable full-stac
 
 ## 🎉 Fun Facts
 
-🐼 **Spirit Animal**  
-King Panda
+<pre>
+🐼  Spirit Animal     :  King Panda
 
-☕ **Debugging Mode**  
-Best After Midnight
+☕  Debugging Mode    :  Best After Midnight
 
-🧩 **Superpower**  
-Turning Coffee into Code
+🧩  Superpower        :  Turning Coffee into Code
 
-🎯 **Life Motto**  
-“Build without boundaries, debug without fear”
+🎯  Life Motto        :  "Build without boundaries, debug without fear"
 
-😄 **Plot Twist**  
-I fix bugs that haven’t been reported yet!
+😄  Plot Twist        :  I fix bugs that haven’t been reported yet!
+</pre>
 
 ---
 
-## 👀 Profile Insights
+<h2 align="center">👀 Profile Insights</h2>
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=yjchauhan&label=Profile%20Views&style=flat-square" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=%24.public_repos&url=https://api.github.com/users/yjchauhan&style=flat-square" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/yjchauhan?label=Followers&style=flat-square" />
-
+  <img src="https://komarev.com/ghpvc/?username=yjchauhan&label=Profile%20Views&style=flat-square" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=%24.public_repos&url=https://api.github.com/users/yjchauhan&style=flat-square" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/yjchauhan?label=Followers&style=flat-square" />
 </div>
