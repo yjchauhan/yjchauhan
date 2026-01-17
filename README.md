@@ -40,35 +40,35 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
   </tr>
   <tr>
     <td align="center" valign="top">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36"/><br/>Python<br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36"/><br/>JavaScript<br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36"/><br/>SQL
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" alt="Python"/><br/>Python<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" alt="JavaScript"/><br/>JavaScript<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" alt="SQL"/><br/>SQL
     </td>
     <td align="center" valign="top">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36"/><br/>React<br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36"/><br/>HTML<br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36"/><br/>CSS
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" alt="React"/><br/>React<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" alt="HTML"/><br/>HTML<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" alt="CSS"/><br/>CSS
     </td>
     <td align="center" valign="top">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36"/><br/>Node.js<br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="36"/><br/>FastAPI<br/><br/>
-      <img src="https://img.shields.io/badge/REST%20APIs-blue?style=flat-square"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" alt="Node.js"/><br/>Node.js<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="36" alt="FastAPI"/><br/>FastAPI<br/><br/>
+      <img src="https://img.shields.io/badge/REST%20APIs-blue?style=flat-square" alt="REST APIs"/>
     </td>
     <td align="center" valign="top">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36"/><br/>MongoDB<br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36"/><br/>PostgreSQL<br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="36"/><br/>Oracle
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" alt="MongoDB"/><br/>MongoDB<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" alt="PostgreSQL"/><br/>PostgreSQL<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="36" alt="Oracle"/><br/>Oracle
     </td>
     <td align="center" valign="top">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36"/><br/>Pandas<br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36"/><br/>NumPy<br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="36"/><br/>R
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" alt="Pandas"/><br/>Pandas<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" alt="NumPy"/><br/>NumPy<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="36" alt="R"/><br/>R
     </td>
     <td align="center" valign="top">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36"/><br/>Git<br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36"/><br/>GitHub<br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36"/><br/>Docker<br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="36"/><br/>Postman
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" alt="Git"/><br/>Git<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" alt="GitHub"/><br/>GitHub<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" alt="Docker"/><br/>Docker<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="36" alt="Postman"/><br/>Postman
     </td>
   </tr>
 </table>
@@ -80,7 +80,10 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 ## 📈 GitHub Stats
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yjchauhan&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight)
+<img
+  src="https://github-readme-stats.vercel.app/api?username=yjchauhan&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&cache_seconds=1800"
+  alt="Yashwantsingh J. Chauhan GitHub Stats"
+/>
 
 </div>
 
@@ -89,7 +92,10 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 ## 🔥 GitHub Streak
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yjchauhan&hide_border=true&theme=tokyonight)
+<img
+  src="https://streak-stats.demolab.com?user=yjchauhan&hide_border=true&theme=tokyonight&cache_seconds=1800"
+  alt="Yashwantsingh J. Chauhan GitHub Streak Stats"
+/>
 
 </div>
 
@@ -98,7 +104,10 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 ## 🧠 Top Languages
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yjchauhan&layout=compact&hide_border=true&theme=tokyonight&langs_count=10)
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjchauhan&layout=compact&hide_border=true&theme=tokyonight&langs_count=10&cache_seconds=1800"
+  alt="Top Languages Used by Yashwantsingh J. Chauhan"
+/>
 
 </div>
 
@@ -107,7 +116,10 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 ## 📊 Contribution Activity
 <div align="center">
 
-![Contribution Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yjchauhan&theme=github-compact&hide_border=true)
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=yjchauhan&theme=github-compact&hide_border=true&cache_seconds=1800"
+  alt="Yashwantsingh J. Chauhan Contribution Activity Graph"
+/>
 
 </div>
 
@@ -145,10 +157,10 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=yjchauhan&label=Profile%20Views&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=yjchauhan&label=Profile%20Views&style=flat-square" alt="Profile Views"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=%24.public_repos&url=https://api.github.com/users/yjchauhan&style=flat-square" />
+<img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=%24.public_repos&url=https://api.github.com/users/yjchauhan&style=flat-square" alt="Public Repositories"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/yjchauhan?label=Followers&style=flat-square" />
+<img src="https://img.shields.io/github/followers/yjchauhan?label=Followers&style=flat-square" alt="GitHub Followers"/>
 
 </div>
