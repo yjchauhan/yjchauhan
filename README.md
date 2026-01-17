@@ -36,6 +36,7 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
     <td align="center" width="16%"><b>Data / ML</b></td>
     <td align="center" width="20%"><b>Tools</b></td>
   </tr>
+
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="34" /><br/>Python<br/><br/>
@@ -80,48 +81,40 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 
 ## 📈 GitHub Stats
 <div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=yjchauhan&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=1800&v=1"
-  alt="GitHub Stats"
-/>
-
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yjchauhan&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=86400"
+    alt="GitHub Stats"
+  />
 </div>
 
 ---
 
 ## 🔥 GitHub Streak
 <div align="center">
-
-<img
-  src="https://streak-stats.demolab.com/?user=yjchauhan&hide_border=true&theme=tokyonight&cache_seconds=1800&v=1"
-  alt="GitHub Streak"
-/>
-
+  <img
+    src="https://streak-stats.demolab.com/?user=yjchauhan&hide_border=true&theme=tokyonight&cache_seconds=86400"
+    alt="GitHub Streak"
+  />
 </div>
 
 ---
 
 ## 🧠 Top Languages
 <div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjchauhan&layout=compact&hide_border=true&theme=tokyonight&langs_count=10&cache_seconds=1800&v=1"
-  alt="Top Languages"
-/>
-
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yjchauhan&layout=compact&hide_border=true&theme=tokyonight&langs_count=10&cache_seconds=86400"
+    alt="Top Languages"
+  />
 </div>
 
 ---
 
 ## 📊 Contribution Activity
 <div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=yjchauhan&theme=github-compact&hide_border=true"
-  alt="Contribution Activity Graph"
-/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=yjchauhan&theme=github-compact&hide_border=true"
+    alt="Contribution Activity Graph"
+  />
 </div>
 
 ---
@@ -153,70 +146,51 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
   <tr>
     <td align="center" width="25%">
       <a href="mailto:ysingh.chauhan2002@gmail.com">
-        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" /><br/>
+        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" /><br/>
         <b>Email</b>
       </a>
     </td>
+
     <td align="center" width="25%">
       <a href="https://www.linkedin.com/in/yjchauhan" target="_blank">
-        <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" /><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" /><br/>
         <b>LinkedIn</b>
       </a>
     </td>
+
     <td align="center" width="25%">
       <a href="https://twitter.com/yjchauhan6322" target="_blank">
-        <img src="https://cdn.simpleicons.org/x/FFFFFF" width="40" /><br/>
+        <img src="https://cdn.simpleicons.org/x/FFFFFF" width="42" /><br/>
         <b>Twitter / X</b>
       </a>
     </td>
+
     <td align="center" width="25%">
       <a href="https://instagram.com/king_panda_6322" target="_blank">
-        <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" /><br/>
+        <img src="https://cdn.simpleicons.org/instagram/E4405F" width="42" /><br/>
         <b>Instagram</b>
       </a>
     </td>
   </tr>
 </table>
 
-<p align="center">
-📞 <b>Phone:</b> +91 94089 15397
-</p>
+<p align="center">📞 <b>Phone:</b> +91 94089 15397</p>
 
 ---
 
 ## 💬 Ask Me About
-Feel free to reach out if you want to talk about building **scalable backend APIs**, designing **database-driven systems**, creating **full-stack applications**, or applying **data, ML, and AI** to solve real-world problems.
+I love discussing **scalable backend APIs**, **database design**, **full-stack architecture**, and how **data + ML + AI** can solve real-world problems.
 
 ---
 
 ## 🎉 Fun Facts
 
 <table width="100%">
-  <tr>
-    <td width="5%">🐼</td>
-    <td><b>Spirit Animal</b>:</td>
-    <td>King Panda</td>
-  </tr>
-  <tr>
-    <td>☕</td>
-    <td><b>Debugging Mode</b>:</td>
-    <td>Best After Midnight</td>
-  </tr>
-  <tr>
-    <td>🧩</td>
-    <td><b>Superpower</b>:</td>
-    <td>Turning Coffee into Code</td>
-  </tr>
-  <tr>
-    <td>🎯</td>
-    <td><b>Life Motto</b>:</td>
-    <td>"Build without boundaries, debug without fear"</td>
-  </tr>
-  <tr>
-    <td>😄</td>
-    <td><b>Plot Twist</b>:</td>
-    <td>I fix bugs that haven't been reported yet!</td>
-  </tr>
+  <tr><td width="6%">🐼</td><td width="25%"><b>Spirit Animal</b>:</td><td>King Panda</td></tr>
+  <tr><td>☕</td><td><b>Debugging Mode</b>:</td><td>Best After Midnight</td></tr>
+  <tr><td>🧩</td><td><b>Superpower</b>:</td><td>Turning Coffee into Code</td></tr>
+  <tr><td>🎯</td><td><b>Life Motto</b>:</td><td>"Build without boundaries, debug without fear"</td></tr>
+  <tr><td>😄</td><td><b>Plot Twist</b>:</td><td>I fix bugs that haven't been reported yet!</td></tr>
 </table>
 
 ---
@@ -226,13 +200,13 @@ Feel free to reach out if you want to talk about building **scalable backend API
 <table width="100%">
   <tr>
     <td width="33%" align="left">
-      <img src="https://komarev.com/ghpvc/?username=yjchauhan&label=Profile%20Views&style=for-the-badge" />
+      <img width="260" src="https://komarev.com/ghpvc/?username=yjchauhan&label=Profile%20Views&style=for-the-badge" />
     </td>
     <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=%24.public_repos&url=https://api.github.com/users/yjchauhan&style=for-the-badge" />
+      <img width="260" src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=%24.public_repos&url=https://api.github.com/users/yjchauhan&style=for-the-badge" />
     </td>
     <td width="33%" align="right">
-      <img src="https://img.shields.io/github/followers/yjchauhan?label=Followers&style=for-the-badge" />
+      <img width="260" src="https://img.shields.io/github/followers/yjchauhan?label=Followers&style=for-the-badge" />
     </td>
   </tr>
 </table>
