@@ -27,49 +27,53 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 
 ## 🛠️ Tech Stack / Skills
 
-<table width="100%" style="table-layout:fixed;">
+<div align="center">
+
+<table width="95%">
   <tr>
-    <td align="center" width="16%"><b>Languages</b></td>
-    <td align="center" width="16%"><b>Frontend</b></td>
-    <td align="center" width="16%"><b>Backend</b></td>
-    <td align="center" width="16%"><b>Databases</b></td>
-    <td align="center" width="16%"><b>Data / ML</b></td>
-    <td align="center" width="20%"><b>Tools</b></td>
+    <th align="center">Languages</th>
+    <th align="center">Frontend</th>
+    <th align="center">Backend</th>
+    <th align="center">Databases</th>
+    <th align="center">Data / ML</th>
+    <th align="center">Tools</th>
   </tr>
   <tr>
     <td align="center" valign="top">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" /><br/>Python<br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" /><br/>JavaScript<br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" /><br/>SQL
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36"/><br/>Python<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36"/><br/>JavaScript<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36"/><br/>SQL
     </td>
     <td align="center" valign="top">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" /><br/>React<br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" /><br/>HTML<br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" /><br/>CSS
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36"/><br/>React<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36"/><br/>HTML<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36"/><br/>CSS
     </td>
     <td align="center" valign="top">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" /><br/>Node.js<br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="36" /><br/>FastAPI<br/><br/>
-      <img src="https://img.shields.io/badge/REST%20APIs-0A66C2?style=flat-square" height="22" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36"/><br/>Node.js<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="36"/><br/>FastAPI<br/><br/>
+      <img src="https://img.shields.io/badge/REST%20APIs-blue?style=flat-square"/>
     </td>
     <td align="center" valign="top">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" /><br/>MongoDB<br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" /><br/>PostgreSQL<br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="36" /><br/>Oracle
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36"/><br/>MongoDB<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36"/><br/>PostgreSQL<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="36"/><br/>Oracle
     </td>
     <td align="center" valign="top">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" /><br/>Pandas<br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" /><br/>NumPy<br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="36" /><br/>R
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36"/><br/>Pandas<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36"/><br/>NumPy<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="36"/><br/>R
     </td>
     <td align="center" valign="top">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" /><br/>Git<br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" /><br/>GitHub<br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" /><br/>Docker<br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="36" /><br/>Postman
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36"/><br/>Git<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36"/><br/>GitHub<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36"/><br/>Docker<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="36"/><br/>Postman
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
