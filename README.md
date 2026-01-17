@@ -118,7 +118,7 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=yjchauhan&theme=github-compact&hide_border=true&cache_seconds=1800"
-  alt="Daily Contribution Activity Graph"
+  alt="My Contribution Activity Graph"
 />
 
 </div>
