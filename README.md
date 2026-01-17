@@ -15,7 +15,7 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 ---
 
 ## 🏢 Current Role
-**Software Development Engineer**
+**Software Development Engineer**  
 **Revolution Labs Pvt. Ltd.**
 
 - Building scalable APIs and database-driven systems  
@@ -152,36 +152,39 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 
 ## 📬 Connect With Me
 
-<table width="100%">
+<table width="85%">
   <tr>
     <td align="center" width="20%">
       <a href="mailto:ysingh.chauhan2002@gmail.com">
-        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Email"/><br/>
+        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" alt="Email"/><br/>
         <b>Email</b>
       </a>
+      <!-- If Gmail ever fails on your GitHub, use this fallback instead:
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="42" alt="Email"/>
+      -->
     </td>
     <td align="center" width="20%">
       <a href="https://www.linkedin.com/in/yjchauhan" target="_blank">
-        <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" alt="LinkedIn"/><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" alt="LinkedIn"/><br/>
         <b>LinkedIn</b>
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://twitter.com/yjchauhan6322" target="_blank">
-        <img src="https://cdn.simpleicons.org/x/FFFFFF" width="40" alt="Twitter X"/><br/>
-        <b>Twitter / X</b>
+        <img src="https://cdn.simpleicons.org/x/FFFFFF" width="42" alt="Twitter X"/><br/>
+        <b>Twitter&nbsp;/&nbsp;X</b>
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://instagram.com/king_panda_6322" target="_blank">
-        <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" alt="Instagram"/><br/>
+        <img src="https://cdn.simpleicons.org/instagram/E4405F" width="42" alt="Instagram"/><br/>
         <b>Instagram</b>
       </a>
     </td>
     <td align="center" width="20%">
       <a href="tel:+919408915397">
-        <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40" alt="Phone"/><br/>
-        <b>Call Me</b>
+        <img src="https://cdn.simpleicons.org/phone/FFFFFF" width="42" alt="Phone"/><br/>
+        <b>Call&nbsp;Me</b>
       </a>
     </td>
   </tr>
