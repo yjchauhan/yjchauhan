@@ -112,7 +112,7 @@ Python, FastAPI, REST APIs, MongoDB, PostgreSQL, HTML, CSS, Git, GitHub, Docker,
 ## 📊 Contribution Activity
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yjchauhan&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yjchauhan&theme=github-compact)
 
 </div>
 
@@ -122,7 +122,7 @@ Python, FastAPI, REST APIs, MongoDB, PostgreSQL, HTML, CSS, Git, GitHub, Docker,
 - Advanced AI/ML applications  
 - Deep Learning  
 - System Design  
-- Cloud (AWS)  
+- Cloud (AWS)
 
 ---
 
@@ -140,11 +140,38 @@ Python, FastAPI, REST APIs, MongoDB, PostgreSQL, HTML, CSS, Git, GitHub, Docker,
 ---
 
 ## 📬 Connect With Me
-- 📞 +91 94089 15397  
-- 📧 ysingh.chauhan2002@gmail.com  
-- 💼 https://www.linkedin.com/in/yjchauhan  
-- 🐦 https://twitter.com/yjchauhan6322  
-- 📸 https://instagram.com/king_panda_6322  
+
+<table align="center">
+<tr>
+<td align="center" width="180">
+<a href="mailto:ysingh.chauhan2002@gmail.com">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32"/><br/><b>Email</b>
+</a>
+</td>
+
+<td align="center" width="180">
+<a href="https://www.linkedin.com/in/yjchauhan" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/><br/><b>LinkedIn</b>
+</a>
+</td>
+
+<td align="center" width="180">
+<a href="https://twitter.com/yjchauhan6322" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="32"/><br/><b>Twitter / X</b>
+</a>
+</td>
+
+<td align="center" width="180">
+<a href="https://instagram.com/king_panda_6322" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="32"/><br/><b>Instagram</b>
+</a>
+</td>
+</tr>
+</table>
+
+<p align="center">
+📞 <b>Phone:</b> +91 94089 15397
+</p>
 
 ---
 
@@ -153,27 +180,32 @@ Backend APIs, Databases, Full Stack Systems, Data, ML & AI
 
 ---
 
-## 🎉 Fun Fact
-I don’t just write code — I **engineer solutions** ☕🚀
+## 🎉 Fun Facts
+
+<pre>
+🐼 Spirit Animal  : King Panda
+☕ Debugging Mode : Best After Midnight
+🧩 Superpower    : Turning Coffee into Code
+🎯 Life Motto    : "Build without boundaries, debug without fear"
+😄 Plot Twist    : I fix bugs that haven't been reported yet!
+</pre>
 
 ---
-
-<div align="center">
 
 ## 👀 Profile Insights
 
 <table width="100%">
-  <tr>
-    <td width="33%" align="left">
-      <img src="https://komarev.com/ghpvc/?username=yjchauhan&label=Profile%20Views&style=flat-square" />
-    </td>
-    <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=%24.public_repos&url=https://api.github.com/users/yjchauhan&style=flat-square" />
-    </td>
-    <td width="33%" align="right">
-      <img src="https://img.shields.io/github/followers/yjchauhan?label=Followers&style=flat-square" />
-    </td>
-  </tr>
-</table>
+<tr>
+<td width="33%" align="left">
+<img src="https://komarev.com/ghpvc/?username=yjchauhan&label=Profile%20Views&style=flat-square" />
+</td>
 
-</div>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=%24.public_repos&url=https://api.github.com/users/yjchauhan&style=flat-square" />
+</td>
+
+<td width="33%" align="right">
+<img src="https://img.shields.io/github/followers/yjchauhan?label=Followers&style=flat-square" />
+</td>
+</tr>
+</table>
