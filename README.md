@@ -116,7 +116,12 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 ---
 
 ## 💬 Ask Me About
-I enjoy discussing backend API design, database architecture, scalable full-stack systems, and how data, machine learning, and AI can be applied to solve real-world problems.
+
+- Designing and building **scalable backend APIs** using FastAPI and REST architectures  
+- **Database design, optimization, and aggregations** with MongoDB and PostgreSQL  
+- Developing **end-to-end full-stack applications** with clean and maintainable code  
+- Applying **data analytics and machine learning** to solve real-world business problems  
+- Best practices for **system design, performance, and production-ready software**
 
 ---
 
