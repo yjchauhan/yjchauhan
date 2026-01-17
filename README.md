@@ -42,31 +42,26 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="34" /><br/>JavaScript<br/><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="34" /><br/>SQL
     </td>
-
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="34" /><br/>React<br/><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="34" /><br/>HTML<br/><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="34" /><br/>CSS
     </td>
-
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="34" /><br/>Node.js<br/><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="34" /><br/>FastAPI<br/><br/>
       <img src="https://img.shields.io/badge/REST%20APIs-0A66C2?style=for-the-badge" />
     </td>
-
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="34" /><br/>MongoDB<br/><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="34" /><br/>PostgreSQL<br/><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="34" /><br/>Oracle
     </td>
-
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="34" /><br/>Pandas<br/><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="34" /><br/>NumPy<br/><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="34" /><br/>R
     </td>
-
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="34" /><br/>Git<br/><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="34" /><br/>GitHub<br/><br/>
