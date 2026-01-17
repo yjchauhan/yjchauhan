@@ -127,6 +127,64 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 
 ---
 
+## 🌱 What I’m Currently Learning
+- Advanced AI/ML applications  
+- Deep Learning  
+- System Design  
+- Cloud (AWS)
+
+---
+
+## 🏅 Certifications & Achievements
+👉 https://www.credly.com/users/yjchauhan
+
+---
+
+## 🎯 Open to Opportunities
+- Software / Backend Engineer  
+- Full Stack Developer  
+- Data Scientist / Analyst  
+- ML / AI Engineer  
+
+---
+
+## 📬 Connect With Me
+
+<table width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <a href="mailto:ysingh.chauhan2002@gmail.com">
+        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" /><br/>
+        <b>Email</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.linkedin.com/in/yjchauhan" target="_blank">
+        <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" /><br/>
+        <b>LinkedIn</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://twitter.com/yjchauhan6322" target="_blank">
+        <img src="https://cdn.simpleicons.org/x/FFFFFF" width="40" /><br/>
+        <b>Twitter / X</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://instagram.com/king_panda_6322" target="_blank">
+        <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" /><br/>
+        <b>Instagram</b>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+📞 <b>Phone:</b> +91 94089 15397
+</p>
+
+---
+
 ## 💬 Ask Me About
 
 - Designing and building **scalable backend APIs** using FastAPI and REST architectures  
