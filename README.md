@@ -136,12 +136,22 @@ I enjoy discussing backend API design, database architecture, scalable full-stac
 
 ---
 
-<h2 align="center">👀 Profile Insights</h2>
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yjchauhan&label=Profile%20Views&style=flat-square" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=%24.public_repos&url=https://api.github.com/users/yjchauhan&style=flat-square" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/yjchauhan?label=Followers&style=flat-square" />
+
+## 👀 Profile Insights
+
+<br/>
+
+<img
+  src="https://komarev.com/ghpvc/?username=yjchauhan&label=Profile%20Views&style=flat-square"
+/>
+&nbsp;&nbsp;&nbsp;
+<img
+  src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=%24.public_repos&url=https://api.github.com/users/yjchauhan&style=flat-square"
+/>
+&nbsp;&nbsp;&nbsp;
+<img
+  src="https://img.shields.io/github/followers/yjchauhan?label=Followers&style=flat-square"
+/>
+
 </div>
