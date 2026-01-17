@@ -185,7 +185,7 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
     <!-- Phone -->
     <td align="center" width="20%">
       <a href="tel:+919408915397">
-        <img src="https://raw.githubusercontent.com/google/material-design-icons/master/src/communication/call/materialicons/24px.svg"
+        <img src="https://cdn.simpleicons.org/googlephone/EA4335"
              width="42"
              alt="Call Me"/><br/>
         <b>Call&nbsp;Me</b><br/>
