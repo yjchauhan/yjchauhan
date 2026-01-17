@@ -82,7 +82,7 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=yjchauhan&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&cache_seconds=1800"
-  alt="Yashwantsingh J. Chauhan GitHub Stats"
+  alt="My GitHub Stats"
 />
 
 </div>
@@ -94,7 +94,7 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 
 <img
   src="https://streak-stats.demolab.com?user=yjchauhan&hide_border=true&theme=tokyonight&cache_seconds=1800"
-  alt="Yashwantsingh J. Chauhan GitHub Streak Stats"
+  alt="My GitHub Streak Stats"
 />
 
 </div>
@@ -106,7 +106,7 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjchauhan&layout=compact&hide_border=true&theme=tokyonight&langs_count=10&cache_seconds=1800"
-  alt="Top Languages Used by Yashwantsingh J. Chauhan"
+  alt="Top Languages Used by Me"
 />
 
 </div>
