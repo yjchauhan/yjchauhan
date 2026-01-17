@@ -29,64 +29,56 @@ Python, FastAPI, REST APIs, MongoDB, PostgreSQL, HTML, CSS, Git, GitHub, Docker,
 
 ## 🛠️ Tech Stack / Skills
 
-<table>
-<tr>
-<td width="33%">
+<table align="center">
+  <tr>
+    <td align="center" width="180"><b>Languages</b></td>
+    <td align="center" width="180"><b>Frontend</b></td>
+    <td align="center" width="180"><b>Backend</b></td>
+    <td align="center" width="180"><b>Databases</b></td>
+    <td align="center" width="180"><b>Data / ML</b></td>
+    <td align="center" width="220"><b>Tools & Platforms</b></td>
+  </tr>
 
-### 💻 Languages
-- 🐍 Python  
-- 🟨 JavaScript  
-- 🗄️ SQL  
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/><br/>Python<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/><br/>JavaScript<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/><br/>SQL
+    </td>
 
-</td>
-<td width="33%">
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/><br/>React<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/><br/>HTML5<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/><br/>CSS3
+    </td>
 
-### 🎨 Frontend
-- ⚛️ React  
-- 🌐 HTML  
-- 🎨 CSS  
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/><br/>Node.js<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="30"/><br/>FastAPI<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/api/api-original.svg" width="30"/><br/>REST APIs
+    </td>
 
-</td>
-<td width="33%">
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30"/><br/>MongoDB<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/><br/>PostgreSQL<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/><br/>MySQL<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="30"/><br/>Oracle SQL
+    </td>
 
-### ⚙️ Backend
-- 🟢 Node.js  
-- ⚡ FastAPI  
-- 🔗 REST APIs  
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30"/><br/>Pandas<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30"/><br/>NumPy<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="30"/><br/>R
+    </td>
 
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🗄️ Databases
-- 🍃 MongoDB  
-- 🐬 MySQL  
-- 🐘 PostgreSQL  
-- 🧱 Oracle SQL  
-
-</td>
-<td>
-
-### 📊 Data Science / ML
-- 🐼 Pandas  
-- 🔢 NumPy  
-- 📈 R Language  
-
-</td>
-<td>
-
-### 🔧 Tools & Platforms
-- 🧑‍💻 Git & GitHub  
-- 🐳 Docker  
-- 🧠 VS Code  
-- 📬 Postman  
-- 🔐 PuTTY  
-- 🌍 Ngrok  
-
-</td>
-</tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/><br/>Git<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/><br/>GitHub<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/><br/>Docker<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30"/><br/>VS Code<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30"/><br/>Postman
+    </td>
+  </tr>
 </table>
 
 ---
