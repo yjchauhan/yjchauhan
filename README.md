@@ -80,7 +80,12 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 ## 📈 GitHub Stats
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yjchauhan&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yjchauhan&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&cache_seconds=1800)
+
+<sub>
+If the card doesn’t load, open directly:
+<a href="https://github-readme-stats.vercel.app/api?username=yjchauhan&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&cache_seconds=1800">Stats link</a>
+</sub>
 
 </div>
 
@@ -89,7 +94,7 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 ## 🔥 GitHub Streak
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=yjchauhan&hide_border=true&theme=tokyonight&cache_seconds=86400)
+![GitHub Streak](https://streak-stats.demolab.com/?user=yjchauhan&hide_border=true&theme=tokyonight&cache_seconds=1800)
 
 </div>
 
@@ -98,7 +103,12 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 ## 🧠 Top Languages
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yjchauhan&layout=compact&hide_border=true&theme=tokyonight&langs_count=10&cache_seconds=86400)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yjchauhan&layout=compact&hide_border=true&theme=tokyonight&langs_count=10&cache_seconds=1800)
+
+<sub>
+If the card doesn’t load, open directly:
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=yjchauhan&layout=compact&hide_border=true&theme=tokyonight&langs_count=10&cache_seconds=1800">Languages link</a>
+</sub>
 
 </div>
 
