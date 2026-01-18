@@ -31,7 +31,7 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 
 <div align="center">
 
-<table width="95%">
+<table width="100%">
   <tr>
     <th align="center">Languages</th>
     <th align="center">Frontend</th>
@@ -83,7 +83,7 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=yjchauhan&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&cache_seconds=1800"
+  src="https://github-readme-stats.vercel.app/api?username=yjchauhan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=1800"
   alt="My GitHub Stats"
 />
 
@@ -96,7 +96,7 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 
 <img
   src="https://streak-stats.demolab.com?user=yjchauhan&hide_border=true&theme=tokyonight&cache_seconds=1800"
-  alt="My GitHub Streak Stats"
+  alt="My GitHub Streak"
 />
 
 </div>
