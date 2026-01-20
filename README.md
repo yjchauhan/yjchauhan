@@ -82,11 +82,10 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 ## 📈 GitHub Stats
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yjchauhan&show_icons=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&hide_border=true&theme=tokyonight&cache_seconds=1800"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yjchauhan&show_icons=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&hide_border=true&theme=buefy&cache_seconds=1800"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=yjchauhan&show_icons=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&hide_border=true&theme=tokyonight&cache_seconds=1800" alt="My GitHub Stats"/>
-</picture>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=yjchauhan&show_icons=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&hide_border=true&theme=tokyonight&cache_seconds=1800"
+  alt="My GitHub Stats"
+/>
 
 </div>
 
@@ -95,11 +94,10 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 ## 🔥 GitHub Streak
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=yjchauhan&hide_border=true&theme=tokyonight&cache_seconds=1800"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=yjchauhan&hide_border=true&theme=buefy&cache_seconds=1800"/>
-  <img src="https://streak-stats.demolab.com?user=yjchauhan&hide_border=true&theme=tokyonight&cache_seconds=1800" alt="My GitHub Streak"/>
-</picture>
+<img
+  src="https://streak-stats.demolab.com?user=yjchauhan&hide_border=true&theme=tokyonight&cache_seconds=1800"
+  alt="My GitHub Streak"
+/>
 
 </div>
 
@@ -108,11 +106,10 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 ## 🧠 Top Languages
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yjchauhan&layout=compact&hide_border=true&theme=tokyonight&langs_count=10&count_private=true&cache_seconds=1800"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yjchauhan&layout=compact&hide_border=true&theme=buefy&langs_count=10&count_private=true&cache_seconds=1800"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjchauhan&layout=compact&hide_border=true&theme=tokyonight&langs_count=10&count_private=true&cache_seconds=1800" alt="Top Languages Used by Me"/>
-</picture>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjchauhan&layout=compact&hide_border=true&theme=tokyonight&langs_count=10&count_private=true&cache_seconds=1800"
+  alt="Top Languages Used by Me"
+/>
 
 </div>
 
