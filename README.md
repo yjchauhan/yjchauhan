@@ -54,7 +54,7 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
     <td align="center" valign="top">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" alt="Node.js"/><br/>Node.js<br/><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="36" alt="FastAPI"/><br/>FastAPI<br/><br/>
-      <img src="https://img.shields.io/badge/REST%20APIs-blue?style=flat-square" alt="REST APIs"/><br/>REST APIs<br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openapi/openapi-original.svg" width="36" alt="REST APIs"/><br/>REST APIs
     </td>
     <td align="center" valign="top">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" alt="MongoDB"/><br/>MongoDB<br/><br/>
