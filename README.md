@@ -107,7 +107,7 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjchauhan&layout=compact&hide_border=true&theme=tokyonight&langs_count=10&cache_seconds=1800"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjchauhan&layout=compact&hide_border=true&theme=tokyonight&langs_count=10&count_private=true&cache_seconds=1800"
   alt="Top Languages Used by Me"
 />
 
