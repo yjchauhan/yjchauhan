@@ -44,7 +44,7 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
     <td align="center" valign="top">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" alt="Python"/><br/>Python<br/><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" alt="JavaScript"/><br/>JavaScript<br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" alt="SQL"/><br/>SQL
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" alt="MySQL"/><br/>MySQL
     </td>
     <td align="center" valign="top">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" alt="React"/><br/>React<br/><br/>
