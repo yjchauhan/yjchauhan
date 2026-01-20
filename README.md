@@ -44,7 +44,7 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
     <td align="center" valign="top">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" alt="Python"/><br/>Python<br/><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" alt="JavaScript"/><br/>JavaScript<br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" alt="MySQL"/><br/>MySQL
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="36" alt="SQL"/><br/>SQL
     </td>
     <td align="center" valign="top">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" alt="React"/><br/>React<br/><br/>
@@ -59,7 +59,8 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
     <td align="center" valign="top">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" alt="MongoDB"/><br/>MongoDB<br/><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" alt="PostgreSQL"/><br/>PostgreSQL<br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="36" alt="Oracle"/><br/>Oracle
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="36" alt="Oracle"/><br/>Oracle<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" alt="MySQL"/><br/>MySQL
     </td>
     <td align="center" valign="top">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" alt="Pandas"/><br/>Pandas<br/><br/>
