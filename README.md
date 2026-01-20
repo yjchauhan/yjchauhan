@@ -83,7 +83,7 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=yjchauhan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=1800"
+  src="https://github-readme-stats.vercel.app/api?username=yjchauhan&show_icons=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&hide_border=true&theme=tokyonight&cache_seconds=1800"
   alt="My GitHub Stats"
 />
 
