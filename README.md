@@ -185,7 +185,7 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
       </p>
     </td>
     <td align="center">
-      <a href="https://www.credly.com/badges/009099b2-f188-4cd2-9d53-a849b6e12099/public_url" target="_blank">🔗</a>
+      <a href="https://www.credly.com/badges/bc43805c-bd16-4311-b3be-e89da6a5b50a/public_url" target="_blank">🔗</a>
     </td>
   </tr>
 
@@ -202,7 +202,7 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
       </p>
     </td>
     <td align="center">
-      <a href="https://www.credly.com/badges/bc43805c-bd16-4311-b3be-e89da6a5b50a/public_url" target="_blank">🔗</a>
+      <a href="https://www.credly.com/badges/009099b2-f188-4cd2-9d53-a849b6e12099/public_url" target="_blank">🔗</a>
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
       </p>
     </td>
     <td align="center">
-      <a href="https://www.credly.com/badges/ba29c179-5039-41b9-8be8-492daff78e48/public_url" target="_blank">🔗</a>
+      <a href="https://www.credly.com/badges/06b3b087-4c4a-4c0c-9314-ea9bcf7a8319/public_url" target="_blank">🔗</a>
     </td>
   </tr>
 
@@ -238,7 +238,7 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
       </p>
     </td>
     <td align="center">
-      <a href="https://www.credly.com/badges/91f9170c-cca1-44cf-89d6-7308a2a472ea/public_url" target="_blank">🔗</a>
+      <a href="https://www.credly.com/badges/6f34e83c-7381-4d5b-b13d-df9768de4a23/public_url" target="_blank">🔗</a>
     </td>
   </tr>
 
