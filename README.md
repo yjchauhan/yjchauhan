@@ -72,7 +72,7 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
       <a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="36" alt="OpenCV"/></a><br/>OpenCV<br/><br/>
       <a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="36" alt="Plotly"/></a><br/>Plotly<br/><br/>
       <a href="https://github.com/yjchauhan"><img src="https://img.shields.io/badge/NLTK-154F3C?style=flat&logo=python&logoColor=white" height="28" alt="NLTK"/></a><br/>NLTK<br/><br/>
-      <a href="https://github.com/yjchauhan"><img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white" height="28" alt="Seaborn"/></a><br/>Seaborn<br/><br/>
+      <a href="https://github.com/yjchauhan"><img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" width="36" alt="Seaborn"/></a><br/>Seaborn<br/><br/>
       <a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="36" alt="R"/></a><br/>R
     </td>
     <td align="center" valign="top">
@@ -85,9 +85,9 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
       <a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" width="36" alt="PuTTY"/></a><br/>PuTTY
     </td>
     <td align="center" valign="top">
-      <a href="https://github.com/yjchauhan"><img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" height="28" alt="Stripe"/></a><br/>Stripe<br/><br/>
-      <a href="https://github.com/yjchauhan"><img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat&logo=razorpay&logoColor=white" height="28" alt="Razorpay"/></a><br/>Razorpay<br/><br/>
-      <a href="https://github.com/yjchauhan"><img src="https://img.shields.io/badge/Telnyx-00C08B?style=flat&logoColor=white" height="28" alt="Telnyx"/></a><br/>Telnyx
+      <a href="https://github.com/yjchauhan"><img src="https://cdn.simpleicons.org/stripe/635BFF" width="36" alt="Stripe"/></a><br/>Stripe<br/><br/>
+      <a href="https://github.com/yjchauhan"><img src="https://cdn.simpleicons.org/razorpay/0C2451" width="36" alt="Razorpay"/></a><br/>Razorpay<br/><br/>
+      <a href="https://github.com/yjchauhan"><img src="https://cdn.brandfetch.io/idAVw1Dptv/w/400/h/400/theme/dark/icon.png" width="36" alt="Telnyx"/></a><br/>Telnyx
     </td>
   </tr>
 </table>
