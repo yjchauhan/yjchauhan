@@ -102,7 +102,7 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
     <td align="center" valign="top">
       <a href="https://github.com/yjchauhan"><img src="https://cdn.simpleicons.org/stripe/635BFF" width="36" alt="Stripe"/></a><br/>Stripe<br/><br/>
       <a href="https://github.com/yjchauhan"><img src="https://cdn.simpleicons.org/razorpay/0C2451" width="36" alt="Razorpay"/></a><br/>Razorpay<br/><br/>
-      <a href="https://github.com/yjchauhan"><img src="https://cdn.brandfetch.io/idAVw1Dptv/w/400/h/400/theme/dark/icon.png" width="36" alt="Telnyx"/></a><br/>Telnyx
+      <a href="https://github.com/yjchauhan"><img src="https://img.shields.io/badge/Telnyx-00C08B?style=for-the-badge&logoColor=white" height="36" alt="Telnyx"/></a><br/>Telnyx
     </td>
   </tr>
 </table>
