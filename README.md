@@ -68,7 +68,8 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
       <a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" alt="MongoDB"/></a><br/>MongoDB<br/><br/>
       <a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" alt="PostgreSQL"/></a><br/>PostgreSQL<br/><br/>
       <a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="36" alt="Oracle"/></a><br/>Oracle<br/><br/>
-      <a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" alt="MySQL"/></a><br/>MySQL
+      <a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" alt="MySQL"/></a><br/>MySQL<br/><br/>
+      <a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36" alt="Redis"/></a><br/>Redis
     </td>
     <!-- Data / ML - Column 1 (5 items) -->
     <td align="center" valign="top">
