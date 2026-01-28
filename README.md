@@ -38,13 +38,15 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
     <th align="center">Backend</th>
     <th align="center">Databases</th>
     <th align="center">Data / ML</th>
-    <th align="center">Tools</th>
+    <th align="center">DevOps / Platforms</th>
+    <th align="center">Integrations</th>
   </tr>
   <tr>
     <td align="center" valign="top">
       <a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" alt="Python"/></a><br/>Python<br/><br/>
       <a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" alt="JavaScript"/></a><br/>JavaScript<br/><br/>
-      <a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="36" alt="SQL"/></a><br/>SQL
+      <a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="36" alt="SQL"/></a><br/>SQL<br/><br/>
+      <a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="36" alt="Bash"/></a><br/>Bash
     </td>
     <td align="center" valign="top">
       <a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" alt="React"/></a><br/>React<br/><br/>
@@ -65,13 +67,27 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
     <td align="center" valign="top">
       <a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" alt="Pandas"/></a><br/>Pandas<br/><br/>
       <a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" alt="NumPy"/></a><br/>NumPy<br/><br/>
+      <a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="36" alt="Matplotlib"/></a><br/>Matplotlib<br/><br/>
+      <a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="36" alt="Scikit-learn"/></a><br/>Scikit-learn<br/><br/>
+      <a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="36" alt="OpenCV"/></a><br/>OpenCV<br/><br/>
+      <a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="36" alt="Plotly"/></a><br/>Plotly<br/><br/>
+      <a href="https://github.com/yjchauhan"><img src="https://img.shields.io/badge/NLTK-154F3C?style=flat&logo=python&logoColor=white" height="28" alt="NLTK"/></a><br/>NLTK<br/><br/>
+      <a href="https://github.com/yjchauhan"><img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white" height="28" alt="Seaborn"/></a><br/>Seaborn<br/><br/>
       <a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="36" alt="R"/></a><br/>R
     </td>
     <td align="center" valign="top">
       <a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" alt="Git"/></a><br/>Git<br/><br/>
       <a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" alt="GitHub"/></a><br/>GitHub<br/><br/>
       <a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" alt="Docker"/></a><br/>Docker<br/><br/>
-      <a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="36" alt="Postman"/></a><br/>Postman
+      <a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="36" alt="Postman"/></a><br/>Postman<br/><br/>
+      <a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" alt="Linux"/></a><br/>Linux<br/><br/>
+      <a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="36" alt="Ubuntu"/></a><br/>Ubuntu<br/><br/>
+      <a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" width="36" alt="PuTTY"/></a><br/>PuTTY
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/yjchauhan"><img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" height="28" alt="Stripe"/></a><br/>Stripe<br/><br/>
+      <a href="https://github.com/yjchauhan"><img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat&logo=razorpay&logoColor=white" height="28" alt="Razorpay"/></a><br/>Razorpay<br/><br/>
+      <a href="https://github.com/yjchauhan"><img src="https://img.shields.io/badge/Telnyx-00C08B?style=flat&logoColor=white" height="28" alt="Telnyx"/></a><br/>Telnyx
     </td>
   </tr>
 </table>
