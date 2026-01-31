@@ -114,7 +114,7 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 <tr>
 <td width="30%" valign="top">
 
-<h3>💻 Programming</h3>
+<h3 align="center">💻 Programming</h3>
 
 <!-- Languages Table (4 columns) -->
 <table width="100%">
@@ -130,7 +130,7 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 </td>
 <td width="70%" valign="top">
 
-<h3>🖥️ Application Development</h3>
+<h3 align="center">🖥️ Application Development</h3>
 
 <!-- Frontend Table (5 columns) -->
 <table width="100%">
@@ -172,7 +172,7 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 </table>
 
 <!-- ========== 3. DATA SCIENCE ========== -->
-<h3>📊 Data Science</h3>
+<h3 align="center">📊 Data Science</h3>
 
 <!-- Data / ML Table (9 columns) -->
 <table width="100%">
@@ -195,7 +195,7 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 <tr>
 <td width="70%" valign="top">
 
-<h3>🚀 DevOps & Tools</h3>
+<h3 align="center">🚀 DevOps & Tools</h3>
 
 <!-- DevOps / Platforms Table (12 columns split into 2 rows of 6) -->
 <table width="100%">
@@ -221,7 +221,7 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 </td>
 <td width="30%" valign="top">
 
-<h3>🔗 Third-Party APIs</h3>
+<h3 align="center">🔗 Third-Party APIs</h3>
 
 <!-- Integrations Table (3 columns) -->
 <table width="100%">
