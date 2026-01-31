@@ -109,7 +109,11 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 
 <!-- ==================== NEW LAYOUT (Option B: By Domain/Function - Separate Tables) ==================== -->
 
-<!-- ========== 1. PROGRAMMING ========== -->
+<!-- ========== 1 & 2. PROGRAMMING + APPLICATION DEVELOPMENT (Side by Side) ========== -->
+<table width="100%">
+<tr>
+<td width="30%" valign="top">
+
 <h3>💻 Programming</h3>
 
 <!-- Languages Table (4 columns) -->
@@ -123,7 +127,9 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 </tr>
 </table>
 
-<!-- ========== 2. APPLICATION DEVELOPMENT ========== -->
+</td>
+<td width="70%" valign="top">
+
 <h3>🖥️ Application Development</h3>
 
 <!-- Frontend Table (5 columns) -->
@@ -158,6 +164,10 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 <td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45"/></a><br/>Oracle</td>
 <td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/></a><br/>PostgreSQL</td>
 <td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45"/></a><br/>Redis</td>
+</tr>
+</table>
+
+</td>
 </tr>
 </table>
 
