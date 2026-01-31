@@ -113,48 +113,48 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 <tr>
 <td>
 <table>
-<tr><th>🔤 Languages</th></tr>
-<tr><td align="center">
-<a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="Bash"/></a>&nbsp;&nbsp;
-<a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/></a>&nbsp;&nbsp;
-<a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/></a>&nbsp;&nbsp;
-<a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" title="SQL"/></a>
-</td></tr>
+<tr><th colspan="4">🔤 Languages</th></tr>
+<tr>
+<td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/></a><br/>Bash</td>
+<td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/></a><br/>JavaScript</td>
+<td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></a><br/>Python</td>
+<td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40"/></a><br/>SQL</td>
+</tr>
 </table>
 </td>
 <td>
 <table>
-<tr><th>🎨 Frontend</th></tr>
-<tr><td align="center">
-<a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS"/></a>&nbsp;&nbsp;
-<a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML"/></a>&nbsp;&nbsp;
-<a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/></a>&nbsp;&nbsp;
-<a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" title="Tailwind CSS"/></a>&nbsp;&nbsp;
-<a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="40" title="Three.js"/></a>
-</td></tr>
+<tr><th colspan="5">🎨 Frontend</th></tr>
+<tr>
+<td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/></a><br/>CSS</td>
+<td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/></a><br/>HTML</td>
+<td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/></a><br/>React</td>
+<td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/></a><br/>Tailwind</td>
+<td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="40"/></a><br/>Three.js</td>
+</tr>
 </table>
 </td>
 <td>
 <table>
-<tr><th>⚙️ Backend</th></tr>
-<tr><td align="center">
-<a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express.js"/></a>&nbsp;&nbsp;
-<a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" title="FastAPI"/></a>&nbsp;&nbsp;
-<a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/></a>&nbsp;&nbsp;
-<a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openapi/openapi-original.svg" width="40" title="REST APIs"/></a>
-</td></tr>
+<tr><th colspan="4">⚙️ Backend</th></tr>
+<tr>
+<td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/></a><br/>Express</td>
+<td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/></a><br/>FastAPI</td>
+<td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/></a><br/>Node.js</td>
+<td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openapi/openapi-original.svg" width="40"/></a><br/>REST APIs</td>
+</tr>
 </table>
 </td>
 <td>
 <table>
-<tr><th>🗄️ Databases</th></tr>
-<tr><td align="center">
-<a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/></a>&nbsp;&nbsp;
-<a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/></a>&nbsp;&nbsp;
-<a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" title="Oracle"/></a>&nbsp;&nbsp;
-<a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/></a>&nbsp;&nbsp;
-<a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" title="Redis"/></a>
-</td></tr>
+<tr><th colspan="5">🗄️ Databases</th></tr>
+<tr>
+<td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/></a><br/>MongoDB</td>
+<td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/></a><br/>MySQL</td>
+<td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/></a><br/>Oracle</td>
+<td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/></a><br/>PostgreSQL</td>
+<td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"/></a><br/>Redis</td>
+</tr>
 </table>
 </td>
 </tr>
@@ -165,18 +165,18 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 <tr>
 <td>
 <table width="100%">
-<tr><th>📊 Data / ML</th></tr>
-<tr><td align="center">
-<a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" title="Matplotlib"/></a>&nbsp;&nbsp;
-<a href="https://github.com/yjchauhan"><img src="https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge&logo=python&logoColor=white" height="40" title="NLTK"/></a>&nbsp;&nbsp;
-<a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy"/></a>&nbsp;&nbsp;
-<a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" title="OpenCV"/></a>&nbsp;&nbsp;
-<a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas"/></a>&nbsp;&nbsp;
-<a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="40" title="Plotly"/></a>&nbsp;&nbsp;
-<a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" title="R"/></a>&nbsp;&nbsp;
-<a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" title="Scikit-learn"/></a>&nbsp;&nbsp;
-<a href="https://github.com/yjchauhan"><img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" width="40" title="Seaborn"/></a>
-</td></tr>
+<tr><th colspan="9">📊 Data / ML</th></tr>
+<tr>
+<td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/></a><br/>Matplotlib</td>
+<td align="center"><a href="https://github.com/yjchauhan"><img src="https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge&logo=python&logoColor=white" height="40"/></a><br/>NLTK</td>
+<td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/></a><br/>NumPy</td>
+<td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/></a><br/>OpenCV</td>
+<td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/></a><br/>Pandas</td>
+<td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="40"/></a><br/>Plotly</td>
+<td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/></a><br/>R</td>
+<td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/></a><br/>Scikit-learn</td>
+<td align="center"><a href="https://github.com/yjchauhan"><img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" width="40"/></a><br/>Seaborn</td>
+</tr>
 </table>
 </td>
 </tr>
@@ -187,21 +187,21 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 <tr>
 <td>
 <table width="100%">
-<tr><th>🚀 DevOps / Platforms</th></tr>
-<tr><td align="center">
-<a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="40" title="Cloudflare"/></a>&nbsp;&nbsp;
-<a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/></a>&nbsp;&nbsp;
-<a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/></a>&nbsp;&nbsp;
-<a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/></a>&nbsp;&nbsp;
-<a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/></a>&nbsp;&nbsp;
-<a href="https://github.com/yjchauhan"><img src="https://neon.tech/favicon/favicon.svg" width="40" title="Neon"/></a>&nbsp;&nbsp;
-<a href="https://github.com/yjchauhan"><img src="https://cdn.simpleicons.org/ngrok/1F1E37" width="40" title="Ngrok"/></a>&nbsp;&nbsp;
-<a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" title="Postman"/></a>&nbsp;&nbsp;
-<a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" width="40" title="PuTTY"/></a>&nbsp;&nbsp;
-<a href="https://github.com/yjchauhan"><img src="https://cdn.simpleicons.org/render/46E3B7" width="40" title="Render"/></a>&nbsp;&nbsp;
-<a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="40" title="Ubuntu"/></a>&nbsp;&nbsp;
-<a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" title="Vercel"/></a>
-</td></tr>
+<tr><th colspan="12">🚀 DevOps / Platforms</th></tr>
+<tr>
+<td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="40"/></a><br/>Cloudflare</td>
+<td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/></a><br/>Docker</td>
+<td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/></a><br/>Git</td>
+<td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/></a><br/>GitHub</td>
+<td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/></a><br/>Linux</td>
+<td align="center"><a href="https://github.com/yjchauhan"><img src="https://neon.tech/favicon/favicon.svg" width="40"/></a><br/>Neon</td>
+<td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.simpleicons.org/ngrok/1F1E37" width="40"/></a><br/>Ngrok</td>
+<td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/></a><br/>Postman</td>
+<td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" width="40"/></a><br/>PuTTY</td>
+<td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.simpleicons.org/render/46E3B7" width="40"/></a><br/>Render</td>
+<td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="40"/></a><br/>Ubuntu</td>
+<td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40"/></a><br/>Vercel</td>
+</tr>
 </table>
 </td>
 </tr>
@@ -212,12 +212,12 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 <tr>
 <td>
 <table>
-<tr><th>🔗 Integrations</th></tr>
-<tr><td align="center">
-<a href="https://github.com/yjchauhan"><img src="https://cdn.simpleicons.org/razorpay/0C2451" width="40" title="Razorpay"/></a>&nbsp;&nbsp;
-<a href="https://github.com/yjchauhan"><img src="https://cdn.simpleicons.org/stripe/635BFF" width="40" title="Stripe"/></a>&nbsp;&nbsp;
-<a href="https://github.com/yjchauhan"><img src="https://img.shields.io/badge/Telnyx-00C08B?style=for-the-badge&logoColor=white" height="40" title="Telnyx"/></a>
-</td></tr>
+<tr><th colspan="3">🔗 Integrations</th></tr>
+<tr>
+<td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.simpleicons.org/razorpay/0C2451" width="40"/></a><br/>Razorpay</td>
+<td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.simpleicons.org/stripe/635BFF" width="40"/></a><br/>Stripe</td>
+<td align="center"><a href="https://github.com/yjchauhan"><img src="https://img.shields.io/badge/Telnyx-00C08B?style=for-the-badge&logoColor=white" height="40"/></a><br/>Telnyx</td>
+</tr>
 </table>
 </td>
 </tr>
