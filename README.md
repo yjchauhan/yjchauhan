@@ -190,7 +190,11 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 </tr>
 </table>
 
-<!-- ========== 4. DEVOPS & TOOLS ========== -->
+<!-- ========== 4 & 5. DEVOPS & TOOLS + THIRD-PARTY APIs (Side by Side) ========== -->
+<table width="100%">
+<tr>
+<td width="70%" valign="top">
+
 <h3>🚀 DevOps & Tools</h3>
 
 <!-- DevOps / Platforms Table (12 columns split into 2 rows of 6) -->
@@ -214,7 +218,9 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 </tr>
 </table>
 
-<!-- ========== 5. THIRD-PARTY APIs ========== -->
+</td>
+<td width="30%" valign="top">
+
 <h3>🔗 Third-Party APIs</h3>
 
 <!-- Integrations Table (3 columns) -->
@@ -224,6 +230,10 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 <td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.simpleicons.org/razorpay/0C2451" width="36"/></a><br/>Razorpay</td>
 <td align="center"><a href="https://github.com/yjchauhan"><img src="https://cdn.simpleicons.org/stripe/635BFF" width="36"/></a><br/>Stripe</td>
 <td align="center"><a href="https://github.com/yjchauhan"><img src="https://img.shields.io/badge/Telnyx-00C08B?style=for-the-badge&logoColor=white" height="36"/></a><br/>Telnyx</td>
+</tr>
+</table>
+
+</td>
 </tr>
 </table>
 
