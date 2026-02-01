@@ -125,9 +125,9 @@ I’m a Software & Data Engineer with hands-on experience in backend and full-st
 
 <a href="https://github.com/yjchauhan">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-cards-eight.vercel.app/api/stats?username=yjchauhan&theme=tokyo-night&show_icons=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&hide_border=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-cards-eight.vercel.app/api/stats?username=yjchauhan&theme=lavender-masculine&show_icons=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&hide_border=true"/>
-    <img src="https://github-stats-cards-eight.vercel.app/api/stats?username=yjchauhan&theme=tokyo-night&show_icons=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&hide_border=true" alt="My GitHub Stats"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-cards-eight.vercel.app/api/stats?username=yjchauhan&theme=tokyo-night&show_icons=true&include_all_commits=true&count_private=true&show=reviews%2Cprs_merged%2Cprs_merged_percentage&hide_border=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-cards-eight.vercel.app/api/stats?username=yjchauhan&theme=lavender-masculine&show_icons=true&include_all_commits=true&count_private=true&show=reviews%2Cprs_merged%2Cprs_merged_percentage&hide_border=true"/>
+    <img src="https://github-stats-cards-eight.vercel.app/api/stats?username=yjchauhan&theme=tokyo-night&show_icons=true&include_all_commits=true&count_private=true&show=reviews%2Cprs_merged%2Cprs_merged_percentage&hide_border=true" alt="My GitHub Stats"/>
   </picture>
 </a>
 
