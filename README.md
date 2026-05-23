@@ -3,7 +3,7 @@
 # Hi, I'm Yashwantsingh J. Chauhan <img src="assets/animations/waving-hand.png" width="40" alt="wave"/>
 
 <a href="https://github.com/yjchauhan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=700&color=8B5CF6&center=true&vCenter=true&multiline=false&width=820&height=40&lines=Associate+Software+Engineer+%7C+AI+%2F+Data+%2F+Full-Stack;Engineer+who+thinks+like+a+founder;Builder+who+ships+like+an+inventor;AI+%2F+ML+Engineer+%7C+Data+Scientist+%7C+Founder;Models%2C+data%2C+products+-+I+live+where+they+collide" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=900&color=8B5CF6&center=true&vCenter=true&multiline=false&width=720&height=48&lines=Founder+%26+Inventor;Data+Scientist;AI+%2F+ML+Engineer;Innovator+%26+Builder;Data+Engineer;Full-Stack+Developer" alt="Typing animation"/>
 </a>
 
 <br/>
