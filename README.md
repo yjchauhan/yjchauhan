@@ -19,6 +19,8 @@
 
 I live at the intersection of **AI, data, and product**. Train the model. Move the data. Ship the system. Every problem is a workshop project - prototype it tonight, measure it tomorrow, ship it before someone else thinks of it. Then build the next one.
 
+**I build the suit, I deploy the suit, I own the suit.** The infrastructure under my work runs on my hands, not someone else's invoice.
+
 **Day job:** building production backends real customers depend on.  
 **Off-hours:** founder-in-training, betting on AI/ML experiments, data tools, SaaS plays - and an operating system of my own. Different clocks, same rule. The workshop never closes.
 
@@ -66,93 +68,85 @@ I live at the intersection of **AI, data, and product**. Train the model. Move t
 
 ---
 
+## <img src="assets/animations/laptop.png" width="32" alt=""/> Worked With
+
+<div align="center">
+
+<a href="https://www.revoltution.com/" title="Revoltution Labs"><img src="assets/companies/revoltution.png" height="36" alt="Revoltution"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.ibm.com/" title="IBM"><img src="assets/companies/ibm.svg" height="36" alt="IBM"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://csrbox.org/" title="CSRBOX"><img src="assets/companies/csrbox.png" height="36" alt="CSRBOX"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://motioncut.in/" title="MotionCut"><img src="assets/companies/motioncut.png" height="36" alt="MotionCut"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://openweaver.com/" title="OpenWeaver"><img src="assets/companies/openweaver.svg" height="36" alt="OpenWeaver"/></a>
+
+</div>
+
+---
+
 ## <img src="assets/animations/gear.png" width="32" alt=""/> Tech Stack / Skills
 
 <div align="center">
 
-<table width="100%">
-  <!-- Header Row -->
+<table>
   <tr>
-    <th align="center">Languages</th>
-    <th align="center">Frontend</th>
-    <th align="center">Backend</th>
-    <th align="center">Databases</th>
-    <th align="center" colspan="2">Data / ML</th>
-    <th align="center" colspan="2">DevOps / Platforms</th>
-    <th align="center">Integrations</th>
+    <th align="center"><sub>Backend, Data &amp; Infrastructure</sub></th>
   </tr>
-  <!-- Content Row -->
   <tr>
-    <!-- Languages (4 items - alphabetical) -->
     <td align="center" valign="top">
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/bash.svg" width="36" alt="Bash"/></a><br/>Bash<br/><br/>
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/javascript.svg" width="36" alt="JavaScript"/></a><br/>JavaScript<br/><br/>
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/python.svg" width="36" alt="Python"/></a><br/>Python<br/><br/>
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/sql.svg" width="36" alt="SQL"/></a><br/>SQL
+      <a href="https://github.com/yjchauhan"><img title="Python" src="assets/icons/tech/python.svg" width="40" alt="Python"/></a>
+      <a href="https://github.com/yjchauhan"><img title="FastAPI" src="assets/icons/tech/fastapi.svg" width="40" alt="FastAPI"/></a>
+      <a href="https://github.com/yjchauhan"><img title="Node.js" src="assets/icons/tech/nodejs.svg" width="40" alt="Node.js"/></a>
+      <a href="https://github.com/yjchauhan"><img title="Express.js" src="assets/icons/tech/express.svg" width="40" alt="Express.js"/></a>
+      <a href="https://github.com/yjchauhan"><img title="REST APIs" src="assets/icons/tech/openapi.svg" width="40" alt="REST APIs"/></a>
+      <a href="https://github.com/yjchauhan"><img title="MongoDB" src="assets/icons/tech/mongodb.svg" width="40" alt="MongoDB"/></a>
+      <a href="https://github.com/yjchauhan"><img title="PostgreSQL" src="assets/icons/tech/postgresql.svg" width="40" alt="PostgreSQL"/></a>
+      <a href="https://github.com/yjchauhan"><img title="SQL" src="assets/icons/tech/sql.svg" width="40" alt="SQL"/></a>
+      <a href="https://github.com/yjchauhan"><img title="MySQL" src="assets/icons/tech/mysql.svg" width="40" alt="MySQL"/></a>
+      <a href="https://github.com/yjchauhan"><img title="Oracle" src="assets/icons/tech/oracle.svg" width="40" alt="Oracle"/></a>
+      <a href="https://github.com/yjchauhan"><img title="Redis" src="assets/icons/tech/redis.svg" width="40" alt="Redis"/></a>
+      <a href="https://github.com/yjchauhan"><img title="Docker" src="assets/icons/tech/docker.svg" width="40" alt="Docker"/></a>
+      <a href="https://github.com/yjchauhan"><img title="Kubernetes" src="assets/icons/tech/kubernetes.svg" width="40" alt="Kubernetes"/></a>
+      <a href="https://github.com/yjchauhan"><img title="Linux" src="assets/icons/tech/linux.svg" width="40" alt="Linux"/></a>
+      <a href="https://github.com/yjchauhan"><img title="Bash" src="assets/icons/tech/bash.svg" width="40" alt="Bash"/></a>
+      <a href="https://github.com/yjchauhan"><img title="Git" src="assets/icons/tech/git.svg" width="40" alt="Git"/></a>
+      <a href="https://github.com/yjchauhan"><img title="Vercel" src="assets/icons/tech/vercel.svg" width="40" alt="Vercel"/></a>
+      <a href="https://github.com/yjchauhan"><img title="Render" src="assets/icons/tech/render.svg" width="40" alt="Render"/></a>
+      <a href="https://github.com/yjchauhan"><img title="Cloudflare" src="assets/icons/tech/cloudflare.svg" width="40" alt="Cloudflare"/></a>
+      <a href="https://github.com/yjchauhan"><img title="Neon" src="assets/icons/tech/neon.svg" width="40" alt="Neon"/></a>
     </td>
-    <!-- Frontend (6 items - alphabetical) -->
+  </tr>
+  <tr>
+    <th align="center"><sub>Frontend, Data Science, Tools &amp; Integrations</sub></th>
+  </tr>
+  <tr>
     <td align="center" valign="top">
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/css3.svg" width="36" alt="CSS"/></a><br/>CSS<br/><br/>
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/html5.svg" width="36" alt="HTML"/></a><br/>HTML<br/><br/>
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/nextjs.svg" width="36" alt="Next.js"/></a><br/>Next.js<br/><br/>
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/react.svg" width="36" alt="React"/></a><br/>React<br/><br/>
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/tailwindcss.svg" width="36" alt="Tailwind CSS"/></a><br/>Tailwind CSS<br/><br/>
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/threejs.svg" width="36" alt="Three.js"/></a><br/>Three.js
-    </td>
-    <!-- Backend (4 items - alphabetical) -->
-    <td align="center" valign="top">
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/express.svg" width="36" alt="Express.js"/></a><br/>Express.js<br/><br/>
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/fastapi.svg" width="36" alt="FastAPI"/></a><br/>FastAPI<br/><br/>
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/nodejs.svg" width="36" alt="Node.js"/></a><br/>Node.js<br/><br/>
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/openapi.svg" width="36" alt="REST APIs"/></a><br/>REST APIs
-    </td>
-    <!-- Databases (5 items - alphabetical) -->
-    <td align="center" valign="top">
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/mongodb.svg" width="36" alt="MongoDB"/></a><br/>MongoDB<br/><br/>
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/mysql.svg" width="36" alt="MySQL"/></a><br/>MySQL<br/><br/>
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/oracle.svg" width="36" alt="Oracle"/></a><br/>Oracle<br/><br/>
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/postgresql.svg" width="36" alt="PostgreSQL"/></a><br/>PostgreSQL<br/><br/>
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/redis.svg" width="36" alt="Redis"/></a><br/>Redis
-    </td>
-    <!-- Data / ML - Column 1 (5 items - alphabetical) -->
-    <td align="center" valign="top">
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/matplotlib.svg" width="36" alt="Matplotlib"/></a><br/>Matplotlib<br/><br/>
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/nltk.svg" height="36" alt="NLTK"/></a><br/>NLTK<br/><br/>
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/numpy.svg" width="36" alt="NumPy"/></a><br/>NumPy<br/><br/>
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/opencv.svg" width="36" alt="OpenCV"/></a><br/>OpenCV<br/><br/>
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/pandas.svg" width="36" alt="Pandas"/></a><br/>Pandas
-    </td>
-    <!-- Data / ML - Column 2 (4 items - alphabetical) -->
-    <td align="center" valign="top">
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/plotly.svg" width="36" alt="Plotly"/></a><br/>Plotly<br/><br/>
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/r.svg" width="36" alt="R"/></a><br/>R<br/><br/>
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/scikitlearn.svg" width="36" alt="Scikit-learn"/></a><br/>Scikit-learn<br/><br/>
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/seaborn.svg" width="36" alt="Seaborn"/></a><br/>Seaborn
-    </td>
-    <!-- DevOps / Platforms - Column 1 (7 items - alphabetical) -->
-    <td align="center" valign="top">
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/cloudflare.svg" width="36" alt="Cloudflare"/></a><br/>Cloudflare<br/><br/>
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/docker.svg" width="36" alt="Docker"/></a><br/>Docker<br/><br/>
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/git.svg" width="36" alt="Git"/></a><br/>Git<br/><br/>
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/github.svg" width="36" alt="GitHub"/></a><br/>GitHub<br/><br/>
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/kubernetes.svg" width="36" alt="Kubernetes"/></a><br/>Kubernetes<br/><br/>
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/linux.svg" width="36" alt="Linux"/></a><br/>Linux<br/><br/>
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/neon.svg" width="36" alt="Neon"/></a><br/>Neon
-    </td>
-    <!-- DevOps / Platforms - Column 2 (6 items - alphabetical) -->
-    <td align="center" valign="top">
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/ngrok.svg" width="36" alt="Ngrok"/></a><br/>Ngrok<br/><br/>
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/postman.svg" width="36" alt="Postman"/></a><br/>Postman<br/><br/>
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/putty.svg" width="36" alt="PuTTY"/></a><br/>PuTTY<br/><br/>
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/render.svg" width="36" alt="Render"/></a><br/>Render<br/><br/>
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/ubuntu.svg" width="36" alt="Ubuntu"/></a><br/>Ubuntu<br/><br/>
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/vercel.svg" width="36" alt="Vercel"/></a><br/>Vercel
-    </td>
-    <!-- Integrations (3 items - alphabetical) -->
-    <td align="center" valign="top">
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/razorpay.svg" width="36" alt="Razorpay"/></a><br/>Razorpay<br/><br/>
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/stripe.svg" width="36" alt="Stripe"/></a><br/>Stripe<br/><br/>
-      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/telnyx.svg" height="36" alt="Telnyx"/></a><br/>Telnyx
+      <a href="https://github.com/yjchauhan"><img title="JavaScript" src="assets/icons/tech/javascript.svg" width="40" alt="JavaScript"/></a>
+      <a href="https://github.com/yjchauhan"><img title="React" src="assets/icons/tech/react.svg" width="40" alt="React"/></a>
+      <a href="https://github.com/yjchauhan"><img title="Next.js" src="assets/icons/tech/nextjs.svg" width="40" alt="Next.js"/></a>
+      <a href="https://github.com/yjchauhan"><img title="HTML" src="assets/icons/tech/html5.svg" width="40" alt="HTML"/></a>
+      <a href="https://github.com/yjchauhan"><img title="CSS" src="assets/icons/tech/css3.svg" width="40" alt="CSS"/></a>
+      <a href="https://github.com/yjchauhan"><img title="Tailwind CSS" src="assets/icons/tech/tailwindcss.svg" width="40" alt="Tailwind CSS"/></a>
+      <a href="https://github.com/yjchauhan"><img title="Three.js" src="assets/icons/tech/threejs.svg" width="40" alt="Three.js"/></a>
+      <a href="https://github.com/yjchauhan"><img title="Pandas" src="assets/icons/tech/pandas.svg" width="40" alt="Pandas"/></a>
+      <a href="https://github.com/yjchauhan"><img title="NumPy" src="assets/icons/tech/numpy.svg" width="40" alt="NumPy"/></a>
+      <a href="https://github.com/yjchauhan"><img title="Matplotlib" src="assets/icons/tech/matplotlib.svg" width="40" alt="Matplotlib"/></a>
+      <a href="https://github.com/yjchauhan"><img title="Scikit-learn" src="assets/icons/tech/scikitlearn.svg" width="40" alt="Scikit-learn"/></a>
+      <a href="https://github.com/yjchauhan"><img title="OpenCV" src="assets/icons/tech/opencv.svg" width="40" alt="OpenCV"/></a>
+      <a href="https://github.com/yjchauhan"><img title="Plotly" src="assets/icons/tech/plotly.svg" width="40" alt="Plotly"/></a>
+      <a href="https://github.com/yjchauhan"><img title="R" src="assets/icons/tech/r.svg" width="40" alt="R"/></a>
+      <a href="https://github.com/yjchauhan"><img title="NLTK" src="assets/icons/tech/nltk.svg" height="36" alt="NLTK"/></a>
+      <a href="https://github.com/yjchauhan"><img title="Seaborn" src="assets/icons/tech/seaborn.svg" width="40" alt="Seaborn"/></a>
+      <a href="https://github.com/yjchauhan"><img title="GitHub" src="assets/icons/tech/github.svg" width="40" alt="GitHub"/></a>
+      <a href="https://github.com/yjchauhan"><img title="Postman" src="assets/icons/tech/postman.svg" width="40" alt="Postman"/></a>
+      <a href="https://github.com/yjchauhan"><img title="Ubuntu" src="assets/icons/tech/ubuntu.svg" width="40" alt="Ubuntu"/></a>
+      <a href="https://github.com/yjchauhan"><img title="PuTTY" src="assets/icons/tech/putty.svg" width="40" alt="PuTTY"/></a>
+      <a href="https://github.com/yjchauhan"><img title="Ngrok" src="assets/icons/tech/ngrok.svg" width="40" alt="Ngrok"/></a>
+      <a href="https://github.com/yjchauhan"><img title="Stripe" src="assets/icons/tech/stripe.svg" width="40" alt="Stripe"/></a>
+      <a href="https://github.com/yjchauhan"><img title="Razorpay" src="assets/icons/tech/razorpay.svg" width="40" alt="Razorpay"/></a>
+      <a href="https://github.com/yjchauhan"><img title="Telnyx" src="assets/icons/tech/telnyx.svg" height="36" alt="Telnyx"/></a>
     </td>
   </tr>
 </table>
@@ -231,16 +225,6 @@ I live at the intersection of **AI, data, and product**. Train the model. Move t
 </picture>
 
 </div>
-
----
-
-## <img src="assets/animations/light-bulb.png" width="32" alt=""/> What I'm Currently Learning
-
-- Production-grade ML systems: training, fine-tuning, inference at scale  
-- Deep Learning and applied LLM workflows  
-- Distributed systems and cloud-native architecture (AWS)  
-- Founder fundamentals: distribution, GTM, and shipping economics  
-- Building an operating system from the ground up
 
 ---
 
@@ -391,13 +375,29 @@ I live at the intersection of **AI, data, and product**. Train the model. Move t
 
 ---
 
+## <img src="assets/animations/light-bulb.png" width="32" alt=""/> Studied At
+
+<div align="center">
+
+<a href="https://nmims.edu/" title="NMIMS"><img src="assets/education/nmims.png" height="40" alt="NMIMS"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://svce.ac.in/" title="SVCE"><img src="assets/education/svce.png" height="40" alt="SVCE"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" title="Fusion"><img src="assets/education/fusion.jpg" height="40" alt="Fusion"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" title="Amersey"><img src="assets/education/amersey.png" height="40" alt="Amersey"/></a>
+
+</div>
+
+---
+
 ## <img src="assets/animations/rocket.png" width="32" alt=""/> Open to Opportunities
 
-- **AI / ML Engineer** - model training, fine-tuning, inference infrastructure  
-- **Data Scientist / Data Engineer** - pipelines, analytics, decision systems  
-- **Founding Engineer** - zero-to-one product builds, technical co-founder collaborations  
-- **Backend / Full-Stack Engineer** - production APIs, scalable systems  
-- **Inventor / Builder** - independent projects, AI-native tooling, SaaS experiments
+- **AI / ML Engineer** - train, fine-tune, and ship models that earn their slot in production. Inference layer included.
+- **Data Scientist / Data Engineer** - raw data in, decisions that move the number out.
+- **Founding Engineer** - zero-to-one builds. Idea Monday, live customer Friday.
+- **Backend / Full-Stack Engineer** - APIs and systems that survive scale, not just demo day.
+- **Inventor / Builder** - bring the constraint. I bring the prototype, and the deploy pipeline behind it.
 
 ---
 
