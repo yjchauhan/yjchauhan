@@ -4,15 +4,13 @@
 
 ### Associate Software Engineer | AI / Data / Full-Stack
 
-<a href="https://github.com/yjchauhan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=600&color=8B5CF6&center=true&vCenter=true&width=720&lines=Engineer+who+thinks+like+a+founder;Builder+who+ships+like+an+inventor;AI+%2F+ML+%7C+Data+%7C+Backend;Models%2C+data%2C+products+-+all+collide" alt="Typing animation"/>
-</a>
+**Engineer who thinks like a founder. Builder who ships like an inventor.**  
+Models, data, products - I live where they all collide.
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-yashwantsinghchauhan.com-635BFF?style=for-the-badge&logo=vercel&logoColor=white)](https://www.yashwantsinghchauhan.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yjchauhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yjchauhan)
-[![Profile Views](https://komarev.com/ghpvc/?username=yjchauhan&style=for-the-badge&color=blueviolet&label=Profile+Views)](https://github.com/yjchauhan)
 
 </div>
 
@@ -93,10 +91,11 @@ I live at the intersection of **AI, data, and product**. Train the model. Move t
       <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/python.svg" width="36" alt="Python"/></a><br/>Python<br/><br/>
       <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/sql.svg" width="36" alt="SQL"/></a><br/>SQL
     </td>
-    <!-- Frontend (5 items - alphabetical) -->
+    <!-- Frontend (6 items - alphabetical) -->
     <td align="center" valign="top">
       <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/css3.svg" width="36" alt="CSS"/></a><br/>CSS<br/><br/>
       <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/html5.svg" width="36" alt="HTML"/></a><br/>HTML<br/><br/>
+      <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/nextjs.svg" width="36" alt="Next.js"/></a><br/>Next.js<br/><br/>
       <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/react.svg" width="36" alt="React"/></a><br/>React<br/><br/>
       <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/tailwindcss.svg" width="36" alt="Tailwind CSS"/></a><br/>Tailwind CSS<br/><br/>
       <a href="https://github.com/yjchauhan"><img src="assets/icons/tech/threejs.svg" width="36" alt="Three.js"/></a><br/>Three.js
@@ -231,72 +230,6 @@ I live at the intersection of **AI, data, and product**. Train the model. Move t
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yjchauhan/yjchauhan/output/github-snake.svg"/>
   <img src="https://raw.githubusercontent.com/yjchauhan/yjchauhan/output/github-snake.svg" alt="Snake eating my contributions"/>
 </picture>
-
-</div>
-
----
-
-## <img src="assets/animations/sparkles.png" width="32" alt=""/> Repository Distribution
-
-<div align="center">
-
-<table>
-  <thead>
-    <tr>
-      <th align="center">Owned (Personal)</th>
-      <th align="center">Public</th>
-      <th align="center">Private</th>
-      <th align="center">Accessible (incl. Orgs)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/yjchauhan?tab=repositories">
-          <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-stats-cards-eight.vercel.app%2Fapi%2Fgithub%2Fstats&query=%24.data.owned.totalRepos&label=&color=8B5CF6&style=for-the-badge&logo=github&cacheSeconds=300" alt="Owned"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/yjchauhan?tab=repositories">
-          <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-stats-cards-eight.vercel.app%2Fapi%2Fgithub%2Fstats&query=%24.data.owned.publicRepos&label=&color=10B981&style=for-the-badge&cacheSeconds=300" alt="Public"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/yjchauhan?tab=repositories">
-          <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-stats-cards-eight.vercel.app%2Fapi%2Fgithub%2Fstats&query=%24.data.owned.privateRepos&label=&color=EF4444&style=for-the-badge&cacheSeconds=300" alt="Private"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/yjchauhan?tab=repositories">
-          <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-stats-cards-eight.vercel.app%2Fapi%2Fgithub%2Fstats&query=%24.data.accessible.totalRepos&label=&color=3B82F6&style=for-the-badge&cacheSeconds=300" alt="Accessible"/>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <thead>
-    <tr>
-      <th align="center">Followers</th>
-      <th align="center">Following</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/yjchauhan?tab=followers">
-          <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-stats-cards-eight.vercel.app%2Fapi%2Fgithub%2Fstats&query=%24.data.followers&label=&color=F59E0B&style=for-the-badge&logo=github&cacheSeconds=300" alt="Followers"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/yjchauhan?tab=following">
-          <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-stats-cards-eight.vercel.app%2Fapi%2Fgithub%2Fstats&query=%24.data.following&label=&color=06B6D4&style=for-the-badge&cacheSeconds=300" alt="Following"/>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 </div>
 
