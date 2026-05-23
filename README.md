@@ -212,26 +212,26 @@ I live at the intersection of **AI, data, and product**. Train the model. Move t
 <br/><br/>
 
 <a href="https://github.com/yjchauhan?tab=repositories">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-stats-cards-eight.vercel.app%2Fapi%2Fgithub%2Fstats&query=%24.data.owned.totalRepos&label=Owned%20Repos&color=8B5CF6&style=for-the-badge&logo=github" alt="Owned Repos"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-stats-cards-eight.vercel.app%2Fapi%2Fgithub%2Fstats&query=%24.data.owned.totalRepos&label=Owned%20Repos&color=8B5CF6&style=for-the-badge&logo=github&cacheSeconds=300" alt="Owned Repos"/>
 </a>
 <a href="https://github.com/yjchauhan?tab=repositories">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-stats-cards-eight.vercel.app%2Fapi%2Fgithub%2Fstats&query=%24.data.owned.publicRepos&label=Public&color=10B981&style=for-the-badge" alt="Public Repos"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-stats-cards-eight.vercel.app%2Fapi%2Fgithub%2Fstats&query=%24.data.owned.publicRepos&label=Public&color=10B981&style=for-the-badge&cacheSeconds=300" alt="Public Repos"/>
 </a>
 <a href="https://github.com/yjchauhan?tab=repositories">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-stats-cards-eight.vercel.app%2Fapi%2Fgithub%2Fstats&query=%24.data.owned.privateRepos&label=Private&color=EF4444&style=for-the-badge" alt="Private Repos"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-stats-cards-eight.vercel.app%2Fapi%2Fgithub%2Fstats&query=%24.data.owned.privateRepos&label=Private&color=EF4444&style=for-the-badge&cacheSeconds=300" alt="Private Repos"/>
 </a>
 <a href="https://github.com/yjchauhan?tab=repositories">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-stats-cards-eight.vercel.app%2Fapi%2Fgithub%2Fstats&query=%24.data.accessible.totalRepos&label=Accessible%20(incl.%20Orgs)&color=3B82F6&style=for-the-badge" alt="Accessible Repos"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-stats-cards-eight.vercel.app%2Fapi%2Fgithub%2Fstats&query=%24.data.accessible.totalRepos&label=Accessible%20(incl.%20Orgs)&color=3B82F6&style=for-the-badge&cacheSeconds=300" alt="Accessible Repos"/>
 </a>
 <br/>
 <a href="https://github.com/yjchauhan?tab=followers">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-stats-cards-eight.vercel.app%2Fapi%2Fgithub%2Fstats&query=%24.data.followers&label=Followers&color=F59E0B&style=for-the-badge&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-stats-cards-eight.vercel.app%2Fapi%2Fgithub%2Fstats&query=%24.data.followers&label=Followers&color=F59E0B&style=for-the-badge&logo=github&cacheSeconds=300" alt="Followers"/>
 </a>
 <a href="https://github.com/yjchauhan?tab=following">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-stats-cards-eight.vercel.app%2Fapi%2Fgithub%2Fstats&query=%24.data.following&label=Following&color=06B6D4&style=for-the-badge" alt="Following"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-stats-cards-eight.vercel.app%2Fapi%2Fgithub%2Fstats&query=%24.data.following&label=Following&color=06B6D4&style=for-the-badge&cacheSeconds=300" alt="Following"/>
 </a>
 <a href="https://gist.github.com/yjchauhan">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-stats-cards-eight.vercel.app%2Fapi%2Fgithub%2Fstats&query=%24.data.publicGists&label=Public%20Gists&color=EC4899&style=for-the-badge" alt="Public Gists"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-stats-cards-eight.vercel.app%2Fapi%2Fgithub%2Fstats&query=%24.data.publicGists&label=Public%20Gists&color=EC4899&style=for-the-badge&cacheSeconds=300" alt="Public Gists"/>
 </a>
 
 </div>
