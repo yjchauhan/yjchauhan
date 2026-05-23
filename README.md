@@ -19,10 +19,40 @@
 ---
 
 ## <img src="assets/animations/laptop.png" width="32" alt=""/> About Me
+
 I live at the intersection of **AI, data, and product**. Train the model. Move the data. Ship the system. Every problem is a workshop project - prototype it tonight, measure it tomorrow, ship it before someone else thinks of it. Then build the next one.
 
 **Day job:** building production backends real customers depend on.  
-**Off-hours:** AI/ML experiments, data tooling, SaaS prototypes, and an operating system of my own. Different clocks, same workshop.
+**Off-hours:** founder-in-training, betting on AI/ML experiments, data tools, SaaS plays - and an operating system of my own. Different clocks, same rule. The workshop never closes.
+
+<div align="center">
+
+<table width="100%">
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <img src="assets/animations/sparkles.png" width="42" alt=""/><br/>
+      <strong>AI & Machine Learning</strong><br/>
+      <sub>Training, fine-tuning, and inventing models that earn their place in the suit.</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <img src="assets/animations/light-bulb.png" width="42" alt=""/><br/>
+      <strong>Data Science Lab</strong><br/>
+      <sub>Raw data in. Insights, dashboards, and decisions that actually move the needle out.</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <img src="assets/animations/gear.png" width="42" alt=""/><br/>
+      <strong>Data Engineering</strong><br/>
+      <sub>Pipelines, databases, APIs - the arc reactor for everything that runs on top.</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <img src="assets/animations/rocket.png" width="42" alt=""/><br/>
+      <strong>Founder & Inventor</strong><br/>
+      <sub>A company. An operating system. Idea Monday, prototype Friday, live before anyone asks for permission.</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -207,37 +237,78 @@ I live at the intersection of **AI, data, and product**. Train the model. Move t
 ---
 
 ## <img src="assets/animations/sparkles.png" width="32" alt=""/> Repository Distribution
+
 <div align="center">
 
-<a href="https://github.com/yjchauhan?tab=repositories">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-stats-cards-eight.vercel.app%2Fapi%2Fgithub%2Fstats&query=%24.data.owned.totalRepos&label=Owned%20Repos&color=8B5CF6&style=for-the-badge&logo=github&cacheSeconds=300" alt="Owned Repos"/>
-</a>
-<a href="https://github.com/yjchauhan?tab=repositories">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-stats-cards-eight.vercel.app%2Fapi%2Fgithub%2Fstats&query=%24.data.owned.publicRepos&label=Public&color=10B981&style=for-the-badge&cacheSeconds=300" alt="Public Repos"/>
-</a>
-<a href="https://github.com/yjchauhan?tab=repositories">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-stats-cards-eight.vercel.app%2Fapi%2Fgithub%2Fstats&query=%24.data.owned.privateRepos&label=Private&color=EF4444&style=for-the-badge&cacheSeconds=300" alt="Private Repos"/>
-</a>
-<a href="https://github.com/yjchauhan?tab=repositories">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-stats-cards-eight.vercel.app%2Fapi%2Fgithub%2Fstats&query=%24.data.accessible.totalRepos&label=Accessible%20(incl.%20Orgs)&color=3B82F6&style=for-the-badge&cacheSeconds=300" alt="Accessible Repos"/>
-</a>
-<br/>
-<a href="https://github.com/yjchauhan?tab=followers">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-stats-cards-eight.vercel.app%2Fapi%2Fgithub%2Fstats&query=%24.data.followers&label=Followers&color=F59E0B&style=for-the-badge&logo=github&cacheSeconds=300" alt="Followers"/>
-</a>
-<a href="https://github.com/yjchauhan?tab=following">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-stats-cards-eight.vercel.app%2Fapi%2Fgithub%2Fstats&query=%24.data.following&label=Following&color=06B6D4&style=for-the-badge&cacheSeconds=300" alt="Following"/>
-</a>
+<table>
+  <thead>
+    <tr>
+      <th align="center">Owned (Personal)</th>
+      <th align="center">Public</th>
+      <th align="center">Private</th>
+      <th align="center">Accessible (incl. Orgs)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/yjchauhan?tab=repositories">
+          <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-stats-cards-eight.vercel.app%2Fapi%2Fgithub%2Fstats&query=%24.data.owned.totalRepos&label=&color=8B5CF6&style=for-the-badge&logo=github&cacheSeconds=300" alt="Owned"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/yjchauhan?tab=repositories">
+          <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-stats-cards-eight.vercel.app%2Fapi%2Fgithub%2Fstats&query=%24.data.owned.publicRepos&label=&color=10B981&style=for-the-badge&cacheSeconds=300" alt="Public"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/yjchauhan?tab=repositories">
+          <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-stats-cards-eight.vercel.app%2Fapi%2Fgithub%2Fstats&query=%24.data.owned.privateRepos&label=&color=EF4444&style=for-the-badge&cacheSeconds=300" alt="Private"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/yjchauhan?tab=repositories">
+          <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-stats-cards-eight.vercel.app%2Fapi%2Fgithub%2Fstats&query=%24.data.accessible.totalRepos&label=&color=3B82F6&style=for-the-badge&cacheSeconds=300" alt="Accessible"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th align="center">Followers</th>
+      <th align="center">Following</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/yjchauhan?tab=followers">
+          <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-stats-cards-eight.vercel.app%2Fapi%2Fgithub%2Fstats&query=%24.data.followers&label=&color=F59E0B&style=for-the-badge&logo=github&cacheSeconds=300" alt="Followers"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/yjchauhan?tab=following">
+          <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-stats-cards-eight.vercel.app%2Fapi%2Fgithub%2Fstats&query=%24.data.following&label=&color=06B6D4&style=for-the-badge&cacheSeconds=300" alt="Following"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
 ---
 
 ## <img src="assets/animations/light-bulb.png" width="32" alt=""/> What I'm Currently Learning
-- Advanced AI/ML applications  
-- Deep Learning  
-- System Design  
-- Cloud (AWS)
+
+- Production-grade ML systems: training, fine-tuning, inference at scale  
+- Deep Learning and applied LLM workflows  
+- Distributed systems and cloud-native architecture (AWS)  
+- Founder fundamentals: distribution, GTM, and shipping economics  
+- Building an operating system from the ground up
 
 ---
 
@@ -389,10 +460,12 @@ I live at the intersection of **AI, data, and product**. Train the model. Move t
 ---
 
 ## <img src="assets/animations/rocket.png" width="32" alt=""/> Open to Opportunities
-- Software / Backend Engineer  
-- Full Stack Developer  
-- Data Scientist / Analyst  
-- ML / AI Engineer  
+
+- **AI / ML Engineer** - model training, fine-tuning, inference infrastructure  
+- **Data Scientist / Data Engineer** - pipelines, analytics, decision systems  
+- **Founding Engineer** - zero-to-one product builds, technical co-founder collaborations  
+- **Backend / Full-Stack Engineer** - production APIs, scalable systems  
+- **Inventor / Builder** - independent projects, AI-native tooling, SaaS experiments
 
 ---
 
@@ -453,11 +526,13 @@ I live at the intersection of **AI, data, and product**. Train the model. Move t
 
 ## <img src="assets/animations/laptop.png" width="32" alt=""/> Ask Me About
 
-- Designing and building **scalable backend APIs** using FastAPI and REST architectures  
-- **Database design, optimization, and aggregations** with MongoDB and PostgreSQL  
-- Developing **end-to-end full-stack applications** with clean and maintainable code  
-- Applying **data analytics and machine learning** to solve real-world business problems  
-- Best practices for **system design, performance, and production-ready software**
+- **Training and fine-tuning ML models** that actually ship to production  
+- **Designing data pipelines** that turn raw input into decisions that move the needle  
+- Building **scalable backend APIs** with FastAPI, REST architectures, and clean data layers  
+- **Database design, optimization, and aggregations** across MongoDB and PostgreSQL  
+- Taking an idea from **prototype on Monday** to **live customer on Friday**  
+- The economics of **shipping fast while keeping production-grade quality**  
+- What it actually takes to **build a company and an operating system on the side**
 
 ---
 
