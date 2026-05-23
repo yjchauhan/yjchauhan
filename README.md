@@ -202,18 +202,12 @@ I live at the intersection of **AI, data, and product**. Train the model. Move t
   <img src="https://raw.githubusercontent.com/yjchauhan/yjchauhan/output/github-snake.svg" alt="Snake eating my contributions"/>
 </picture>
 
-<sub>Regenerated daily by a GitHub Action - never depends on any third-party service.</sub>
-
 </div>
 
 ---
 
 ## <img src="assets/animations/sparkles.png" width="32" alt=""/> Repository Distribution
 <div align="center">
-
-<sub>Live numbers, served by my own [github-stats-cards](https://github.com/yjchauhan/github-stats-cards) backend on Vercel.</sub>
-
-<br/><br/>
 
 <a href="https://github.com/yjchauhan?tab=repositories">
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-stats-cards-eight.vercel.app%2Fapi%2Fgithub%2Fstats&query=%24.data.owned.totalRepos&label=Owned%20Repos&color=8B5CF6&style=for-the-badge&logo=github&cacheSeconds=300" alt="Owned Repos"/>
