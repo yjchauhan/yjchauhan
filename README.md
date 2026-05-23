@@ -2,10 +2,8 @@
 
 # Hi, I'm Yashwantsingh J. Chauhan <img src="assets/animations/waving-hand.png" width="40" alt="wave"/>
 
-### Associate Software Engineer | AI / Data / Full-Stack
-
 <a href="https://github.com/yjchauhan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=700&color=8B5CF6&center=true&vCenter=true&multiline=false&width=820&height=40&lines=Engineer+who+thinks+like+a+founder;Builder+who+ships+like+an+inventor;AI+%2F+ML+Engineer+%7C+Data+Scientist+%7C+Founder;Models%2C+data%2C+products+-+I+live+where+they+collide" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=700&color=8B5CF6&center=true&vCenter=true&multiline=false&width=820&height=40&lines=Associate+Software+Engineer+%7C+AI+%2F+Data+%2F+Full-Stack;Engineer+who+thinks+like+a+founder;Builder+who+ships+like+an+inventor;AI+%2F+ML+Engineer+%7C+Data+Scientist+%7C+Founder;Models%2C+data%2C+products+-+I+live+where+they+collide" alt="Typing animation"/>
 </a>
 
 <br/>
